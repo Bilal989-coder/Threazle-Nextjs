@@ -1,4 +1,4 @@
-# Threazle Phase 1 — frontend
+# Threazle Phase 2 — frontend
 
 This is the corrected integration source candidate from 15 October 2026, not a verified public deployment. Read `../START-HERE.md`, `../VERIFICATION-REPORT.md` and `../PHASE1-UAT.md`. Extract all three packages together so the shared setup/test tools are present.
 
