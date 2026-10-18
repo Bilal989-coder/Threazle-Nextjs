@@ -1,0 +1,172 @@
+{
+  "suite": "Source UI policy and media tests",
+  "total": 41,
+  "passed": 41,
+  "failed": 0,
+  "results": [
+    {
+      "name": "The only density choices are 2, 4 and 6",
+      "status": "passed"
+    },
+    {
+      "name": "A stored two-column preference restores correctly",
+      "status": "passed"
+    },
+    {
+      "name": "A stored six-column preference restores correctly",
+      "status": "passed"
+    },
+    {
+      "name": "Corrupt stored density falls back to four",
+      "status": "passed"
+    },
+    {
+      "name": "Phones never receive six tiny columns",
+      "status": "passed"
+    },
+    {
+      "name": "Tablets clamp six columns to four",
+      "status": "passed"
+    },
+    {
+      "name": "Wide desktops can show all six columns",
+      "status": "passed"
+    },
+    {
+      "name": "Two-column choice remains two on desktop",
+      "status": "passed"
+    },
+    {
+      "name": "Home is a reveal-header route",
+      "status": "passed"
+    },
+    {
+      "name": "Static CMS pages reveal the header on upward scroll",
+      "status": "passed"
+    },
+    {
+      "name": "Tailoring and size help use editorial header behavior",
+      "status": "passed"
+    },
+    {
+      "name": "All commerce, account and payment routes keep the header in flow",
+      "status": "passed"
+    },
+    {
+      "name": "A normal-route header cannot float, even while scrolling up",
+      "status": "passed"
+    },
+    {
+      "name": "Home header stays natural before it has left the viewport",
+      "status": "passed"
+    },
+    {
+      "name": "Home header hides after scrolling down beyond its natural slot",
+      "status": "passed"
+    },
+    {
+      "name": "Home header reveals after deliberate upward movement",
+      "status": "passed"
+    },
+    {
+      "name": "One-pixel scrolling jitter does not make the header flicker",
+      "status": "passed"
+    },
+    {
+      "name": "Small consecutive upward movements eventually reveal the header",
+      "status": "passed"
+    },
+    {
+      "name": "Returning to page top restores normal layout",
+      "status": "passed"
+    },
+    {
+      "name": "Negative overscroll is clamped to the top",
+      "status": "passed"
+    },
+    {
+      "name": "An open menu or focused header is not hidden by scrolling",
+      "status": "passed"
+    },
+    {
+      "name": "Repeated fabric filters preserve both backend values",
+      "status": "passed"
+    },
+    {
+      "name": "Removing one fabric chip preserves the other selection",
+      "status": "passed"
+    },
+    {
+      "name": "Clearing filters preserves search, sorting and fabric-first context",
+      "status": "passed"
+    },
+    {
+      "name": "Pagination changes do not clear active filters",
+      "status": "passed"
+    },
+    {
+      "name": "Sample max-price zero returns no positive-price products",
+      "status": "passed"
+    },
+    {
+      "name": "Known photo filenames resolve to manifest metadata",
+      "status": "passed"
+    },
+    {
+      "name": "Unknown photo filenames are not invented as manifest entries",
+      "status": "passed"
+    },
+    {
+      "name": "A small product preview resolves to the original highest-resolution source",
+      "status": "passed"
+    },
+    {
+      "name": "Different size derivatives identify the same photograph",
+      "status": "passed"
+    },
+    {
+      "name": "Square collar assets have correct intrinsic aspect metadata",
+      "status": "passed"
+    },
+    {
+      "name": "Known remote approved images are retained",
+      "status": "passed"
+    },
+    {
+      "name": "Unknown remote image hosts fail safely",
+      "status": "passed"
+    },
+    {
+      "name": "A square photograph is contained without stretching",
+      "status": "passed"
+    },
+    {
+      "name": "Portrait and landscape images keep their original proportions",
+      "status": "passed"
+    },
+    {
+      "name": "Zero-sized image metadata cannot divide by zero",
+      "status": "passed"
+    },
+    {
+      "name": "Three demo collar options use three distinct references",
+      "status": "passed"
+    },
+    {
+      "name": "Repeated full-body collar images are replaced by matching reference crops",
+      "status": "passed"
+    },
+    {
+      "name": "A unique approved backend collar photo is not overridden",
+      "status": "passed"
+    },
+    {
+      "name": "An unknown style name is not assigned a guessed collar",
+      "status": "passed"
+    },
+    {
+      "name": "All demo variant media references exist locally",
+      "status": "passed"
+    }
+  ]
+}

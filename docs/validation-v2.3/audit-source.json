@@ -1,0 +1,192 @@
+{
+  "suite": "v2.3 source regressions and mocked API boundaries",
+  "total": 46,
+  "passed": 46,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Navigation uses all configured root collections",
+      "status": "passed"
+    },
+    {
+      "name": "A child is nested once instead of duplicated as a top-level collection",
+      "status": "passed"
+    },
+    {
+      "name": "A temporarily missing parent does not make a collection unreachable",
+      "status": "passed"
+    },
+    {
+      "name": "Menu ordering follows category sortOrder",
+      "status": "passed"
+    },
+    {
+      "name": "Duplicate category IDs do not produce duplicate menu rows",
+      "status": "passed"
+    },
+    {
+      "name": "Large bag badges are capped without modifying the underlying quantity",
+      "status": "passed"
+    },
+    {
+      "name": "Invalid and negative badge values do not show NaN or negative counts",
+      "status": "passed"
+    },
+    {
+      "name": "Blank searches cannot navigate to a misleading empty search",
+      "status": "passed"
+    },
+    {
+      "name": "Search encodes special characters and trims surrounding whitespace",
+      "status": "passed"
+    },
+    {
+      "name": "Search limits match the existing 150-character catalog contract",
+      "status": "passed"
+    },
+    {
+      "name": "The fifth CMS banner is reachable rather than forced into a three-slide loop",
+      "status": "passed"
+    },
+    {
+      "name": "The carousel wraps correctly in both directions",
+      "status": "passed"
+    },
+    {
+      "name": "Fallback hero count comes from the fallback content",
+      "status": "passed"
+    },
+    {
+      "name": "One slide does not divide by zero or produce an invalid position",
+      "status": "passed"
+    },
+    {
+      "name": "Page numbers are whole numbers before reaching the backend",
+      "status": "passed"
+    },
+    {
+      "name": "Invalid, negative and excessive page values are bounded",
+      "status": "passed"
+    },
+    {
+      "name": "Admin-selected primary photo is first, with other gallery images stable",
+      "status": "passed"
+    },
+    {
+      "name": "A catalog with no primary flag preserves original gallery order",
+      "status": "passed"
+    },
+    {
+      "name": "Empty image lists still normalize without an invented photograph",
+      "status": "passed"
+    },
+    {
+      "name": "Waistcoat length is not confused with waist circumference",
+      "status": "passed"
+    },
+    {
+      "name": "Trouser waist is not confused with trouser length",
+      "status": "passed"
+    },
+    {
+      "name": "Trouser length and inner-leg length receive their different instructions",
+      "status": "passed"
+    },
+    {
+      "name": "Snake-case and camel-case sleeve names find the same guidance",
+      "status": "passed"
+    },
+    {
+      "name": "A recognized field key wins over a contradictory display label",
+      "status": "passed"
+    },
+    {
+      "name": "An unknown measurement does not receive an invented instruction",
+      "status": "passed"
+    },
+    {
+      "name": "Valid delivery contact fields are accepted",
+      "status": "passed"
+    },
+    {
+      "name": "A punctuation-only phone cannot pass as a delivery number",
+      "status": "passed"
+    },
+    {
+      "name": "A misplaced plus sign is rejected in a phone",
+      "status": "passed"
+    },
+    {
+      "name": "A country code with spaces or hyphens remains valid",
+      "status": "passed"
+    },
+    {
+      "name": "Whitespace-only recipient names are rejected",
+      "status": "passed"
+    },
+    {
+      "name": "Invalid postal codes cannot reach order creation",
+      "status": "passed"
+    },
+    {
+      "name": "Checkout email validates the whole address instead of only finding @",
+      "status": "passed"
+    },
+    {
+      "name": "Closing one of two dialogs leaves document scrolling locked",
+      "status": "passed"
+    },
+    {
+      "name": "Double cleanup of the same dialog does not release another dialog lock",
+      "status": "passed"
+    },
+    {
+      "name": "Dialog locks are isolated between documents",
+      "status": "passed"
+    },
+    {
+      "name": "Fabric 404 responses become a real missing-resource result",
+      "status": "passed"
+    },
+    {
+      "name": "Fabric service errors are not disguised as missing products",
+      "status": "passed"
+    },
+    {
+      "name": "Published CMS content is retained",
+      "status": "passed"
+    },
+    {
+      "name": "Draft CMS content is never displayed even if returned by an endpoint",
+      "status": "passed"
+    },
+    {
+      "name": "CMS 404 is a missing page, not an unhandled error",
+      "status": "passed"
+    },
+    {
+      "name": "New-arrival API requests retain the supported isNew filter",
+      "status": "passed"
+    },
+    {
+      "name": "Preview new arrivals are a subset, not the full collection under another heading",
+      "status": "passed"
+    },
+    {
+      "name": "Product API responses honor their primary image flag",
+      "status": "passed"
+    },
+    {
+      "name": "A read timeout does not incorrectly claim an order might have been placed",
+      "status": "passed"
+    },
+    {
+      "name": "An order timeout preserves the warning about uncertain order submission",
+      "status": "passed"
+    },
+    {
+      "name": "Custom checkout is blocked when the category measurement definition is missing",
+      "status": "passed"
+    }
+  ]
+}

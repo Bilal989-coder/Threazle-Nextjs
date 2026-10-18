@@ -1,0 +1,1439 @@
+{
+  "scope": "Static source-rendered DOM; no React effects, Next.js runtime or interactive e2e execution. Tailwind 4 preflight used ONLY for these specimens; real app retains Tailwind 3. Fonts use system fallback.",
+  "cases": [
+    {
+      "width": 320,
+      "documentWidth": 320,
+      "logo": {
+        "x": 101.40625,
+        "y": 51,
+        "w": 117.171875,
+        "h": 22,
+        "right": 218.578125
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 76,
+        "h": 44,
+        "right": 88
+      },
+      "bag": {
+        "x": 264,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 308
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 296,
+        "h": 64,
+        "right": 308
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "home",
+      "headerOverlaps": false
+    },
+    {
+      "width": 320,
+      "documentWidth": 320,
+      "logo": {
+        "x": 101.40625,
+        "y": 51,
+        "w": 117.171875,
+        "h": 22,
+        "right": 218.578125
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 76,
+        "h": 44,
+        "right": 88
+      },
+      "bag": {
+        "x": 264,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 308
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 296,
+        "h": 64,
+        "right": 308
+      },
+      "drawer": {
+        "x": 0,
+        "y": 0,
+        "w": 320,
+        "h": 844,
+        "right": 320
+      },
+      "drawerWidth": 319,
+      "drawerClientWidth": 319,
+      "brokenImages": [],
+      "scene": "drawer",
+      "headerOverlaps": false
+    },
+    {
+      "width": 320,
+      "documentWidth": 320,
+      "logo": {
+        "x": 101.40625,
+        "y": 51,
+        "w": 117.171875,
+        "h": 22,
+        "right": 218.578125
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 76,
+        "h": 44,
+        "right": 88
+      },
+      "bag": {
+        "x": 264,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 308
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 296,
+        "h": 64,
+        "right": 308
+      },
+      "drawer": {
+        "x": 0,
+        "y": 0,
+        "w": 320,
+        "h": 844,
+        "right": 320
+      },
+      "drawerWidth": 319,
+      "drawerClientWidth": 319,
+      "brokenImages": [],
+      "scene": "drawer-expanded",
+      "headerOverlaps": false
+    },
+    {
+      "width": 320,
+      "documentWidth": 320,
+      "logo": {
+        "x": 101.40625,
+        "y": 51,
+        "w": 117.171875,
+        "h": 22,
+        "right": 218.578125
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 76,
+        "h": 44,
+        "right": 88
+      },
+      "bag": {
+        "x": 264,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 308
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 296,
+        "h": 64,
+        "right": 308
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "catalog",
+      "headerOverlaps": false
+    },
+    {
+      "width": 320,
+      "documentWidth": 320,
+      "logo": {
+        "x": 101.40625,
+        "y": 51,
+        "w": 117.171875,
+        "h": 22,
+        "right": 218.578125
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 76,
+        "h": 44,
+        "right": 88
+      },
+      "bag": {
+        "x": 264,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 308
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 296,
+        "h": 64,
+        "right": 308
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "product",
+      "headerOverlaps": false
+    },
+    {
+      "width": 320,
+      "documentWidth": 320,
+      "logo": {
+        "x": 101.40625,
+        "y": 51,
+        "w": 117.171875,
+        "h": 22,
+        "right": 218.578125
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 76,
+        "h": 44,
+        "right": 88
+      },
+      "bag": {
+        "x": 264,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 308
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 296,
+        "h": 64,
+        "right": 308
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "fabrics",
+      "headerOverlaps": false
+    },
+    {
+      "width": 375,
+      "documentWidth": 375,
+      "logo": {
+        "x": 127.578125,
+        "y": 50.75,
+        "w": 119.828125,
+        "h": 22.5,
+        "right": 247.40625
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 80,
+        "h": 44,
+        "right": 92
+      },
+      "bag": {
+        "x": 319,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 363
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 351,
+        "h": 64,
+        "right": 363
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "home",
+      "headerOverlaps": false
+    },
+    {
+      "width": 375,
+      "documentWidth": 375,
+      "logo": {
+        "x": 127.578125,
+        "y": 50.75,
+        "w": 119.828125,
+        "h": 22.5,
+        "right": 247.40625
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 80,
+        "h": 44,
+        "right": 92
+      },
+      "bag": {
+        "x": 319,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 363
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 351,
+        "h": 64,
+        "right": 363
+      },
+      "drawer": {
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 844,
+        "right": 375
+      },
+      "drawerWidth": 374,
+      "drawerClientWidth": 374,
+      "brokenImages": [],
+      "scene": "drawer",
+      "headerOverlaps": false
+    },
+    {
+      "width": 375,
+      "documentWidth": 375,
+      "logo": {
+        "x": 127.578125,
+        "y": 50.75,
+        "w": 119.828125,
+        "h": 22.5,
+        "right": 247.40625
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 80,
+        "h": 44,
+        "right": 92
+      },
+      "bag": {
+        "x": 319,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 363
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 351,
+        "h": 64,
+        "right": 363
+      },
+      "drawer": {
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 844,
+        "right": 375
+      },
+      "drawerWidth": 374,
+      "drawerClientWidth": 374,
+      "brokenImages": [],
+      "scene": "drawer-expanded",
+      "headerOverlaps": false
+    },
+    {
+      "width": 375,
+      "documentWidth": 375,
+      "logo": {
+        "x": 127.578125,
+        "y": 50.75,
+        "w": 119.828125,
+        "h": 22.5,
+        "right": 247.40625
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 80,
+        "h": 44,
+        "right": 92
+      },
+      "bag": {
+        "x": 319,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 363
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 351,
+        "h": 64,
+        "right": 363
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "catalog",
+      "headerOverlaps": false
+    },
+    {
+      "width": 375,
+      "documentWidth": 375,
+      "logo": {
+        "x": 127.578125,
+        "y": 50.75,
+        "w": 119.828125,
+        "h": 22.5,
+        "right": 247.40625
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 80,
+        "h": 44,
+        "right": 92
+      },
+      "bag": {
+        "x": 319,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 363
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 351,
+        "h": 64,
+        "right": 363
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "product",
+      "headerOverlaps": false
+    },
+    {
+      "width": 375,
+      "documentWidth": 375,
+      "logo": {
+        "x": 127.578125,
+        "y": 50.75,
+        "w": 119.828125,
+        "h": 22.5,
+        "right": 247.40625
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 80,
+        "h": 44,
+        "right": 92
+      },
+      "bag": {
+        "x": 319,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 363
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 351,
+        "h": 64,
+        "right": 363
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "fabrics",
+      "headerOverlaps": false
+    },
+    {
+      "width": 390,
+      "documentWidth": 390,
+      "logo": {
+        "x": 132.703125,
+        "y": 50.296875,
+        "w": 124.578125,
+        "h": 23.40625,
+        "right": 257.28125
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 80,
+        "h": 44,
+        "right": 92
+      },
+      "bag": {
+        "x": 334,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 378
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 366,
+        "h": 64,
+        "right": 378
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "home",
+      "headerOverlaps": false
+    },
+    {
+      "width": 390,
+      "documentWidth": 390,
+      "logo": {
+        "x": 132.703125,
+        "y": 50.296875,
+        "w": 124.578125,
+        "h": 23.40625,
+        "right": 257.28125
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 80,
+        "h": 44,
+        "right": 92
+      },
+      "bag": {
+        "x": 334,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 378
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 366,
+        "h": 64,
+        "right": 378
+      },
+      "drawer": {
+        "x": 0,
+        "y": 0,
+        "w": 390,
+        "h": 844,
+        "right": 390
+      },
+      "drawerWidth": 389,
+      "drawerClientWidth": 389,
+      "brokenImages": [],
+      "scene": "drawer",
+      "headerOverlaps": false
+    },
+    {
+      "width": 390,
+      "documentWidth": 390,
+      "logo": {
+        "x": 132.703125,
+        "y": 50.296875,
+        "w": 124.578125,
+        "h": 23.40625,
+        "right": 257.28125
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 80,
+        "h": 44,
+        "right": 92
+      },
+      "bag": {
+        "x": 334,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 378
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 366,
+        "h": 64,
+        "right": 378
+      },
+      "drawer": {
+        "x": 0,
+        "y": 0,
+        "w": 390,
+        "h": 844,
+        "right": 390
+      },
+      "drawerWidth": 389,
+      "drawerClientWidth": 389,
+      "brokenImages": [],
+      "scene": "drawer-expanded",
+      "headerOverlaps": false
+    },
+    {
+      "width": 390,
+      "documentWidth": 390,
+      "logo": {
+        "x": 132.703125,
+        "y": 50.296875,
+        "w": 124.578125,
+        "h": 23.40625,
+        "right": 257.28125
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 80,
+        "h": 44,
+        "right": 92
+      },
+      "bag": {
+        "x": 334,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 378
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 366,
+        "h": 64,
+        "right": 378
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "catalog",
+      "headerOverlaps": false
+    },
+    {
+      "width": 390,
+      "documentWidth": 390,
+      "logo": {
+        "x": 132.703125,
+        "y": 50.296875,
+        "w": 124.578125,
+        "h": 23.40625,
+        "right": 257.28125
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 80,
+        "h": 44,
+        "right": 92
+      },
+      "bag": {
+        "x": 334,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 378
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 366,
+        "h": 64,
+        "right": 378
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "product",
+      "headerOverlaps": false
+    },
+    {
+      "width": 390,
+      "documentWidth": 390,
+      "logo": {
+        "x": 132.703125,
+        "y": 50.296875,
+        "w": 124.578125,
+        "h": 23.40625,
+        "right": 257.28125
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 80,
+        "h": 44,
+        "right": 92
+      },
+      "bag": {
+        "x": 334,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 378
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 366,
+        "h": 64,
+        "right": 378
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "fabrics",
+      "headerOverlaps": false
+    },
+    {
+      "width": 430,
+      "documentWidth": 430,
+      "logo": {
+        "x": 146.296875,
+        "y": 49.09375,
+        "w": 137.390625,
+        "h": 25.796875,
+        "right": 283.6875
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 80,
+        "h": 44,
+        "right": 92
+      },
+      "bag": {
+        "x": 374,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 418
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 406,
+        "h": 64,
+        "right": 418
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "home",
+      "headerOverlaps": false
+    },
+    {
+      "width": 430,
+      "documentWidth": 430,
+      "logo": {
+        "x": 146.296875,
+        "y": 49.09375,
+        "w": 137.390625,
+        "h": 25.796875,
+        "right": 283.6875
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 80,
+        "h": 44,
+        "right": 92
+      },
+      "bag": {
+        "x": 374,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 418
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 406,
+        "h": 64,
+        "right": 418
+      },
+      "drawer": {
+        "x": 0,
+        "y": 0,
+        "w": 430,
+        "h": 844,
+        "right": 430
+      },
+      "drawerWidth": 429,
+      "drawerClientWidth": 429,
+      "brokenImages": [],
+      "scene": "drawer",
+      "headerOverlaps": false
+    },
+    {
+      "width": 430,
+      "documentWidth": 430,
+      "logo": {
+        "x": 146.296875,
+        "y": 49.09375,
+        "w": 137.390625,
+        "h": 25.796875,
+        "right": 283.6875
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 80,
+        "h": 44,
+        "right": 92
+      },
+      "bag": {
+        "x": 374,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 418
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 406,
+        "h": 64,
+        "right": 418
+      },
+      "drawer": {
+        "x": 0,
+        "y": 0,
+        "w": 430,
+        "h": 844,
+        "right": 430
+      },
+      "drawerWidth": 429,
+      "drawerClientWidth": 429,
+      "brokenImages": [],
+      "scene": "drawer-expanded",
+      "headerOverlaps": false
+    },
+    {
+      "width": 430,
+      "documentWidth": 430,
+      "logo": {
+        "x": 146.296875,
+        "y": 49.09375,
+        "w": 137.390625,
+        "h": 25.796875,
+        "right": 283.6875
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 80,
+        "h": 44,
+        "right": 92
+      },
+      "bag": {
+        "x": 374,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 418
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 406,
+        "h": 64,
+        "right": 418
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "catalog",
+      "headerOverlaps": false
+    },
+    {
+      "width": 430,
+      "documentWidth": 430,
+      "logo": {
+        "x": 146.296875,
+        "y": 49.09375,
+        "w": 137.390625,
+        "h": 25.796875,
+        "right": 283.6875
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 80,
+        "h": 44,
+        "right": 92
+      },
+      "bag": {
+        "x": 374,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 418
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 406,
+        "h": 64,
+        "right": 418
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "product",
+      "headerOverlaps": false
+    },
+    {
+      "width": 430,
+      "documentWidth": 430,
+      "logo": {
+        "x": 146.296875,
+        "y": 49.09375,
+        "w": 137.390625,
+        "h": 25.796875,
+        "right": 283.6875
+      },
+      "left": {
+        "x": 12,
+        "y": 40,
+        "w": 80,
+        "h": 44,
+        "right": 92
+      },
+      "bag": {
+        "x": 374,
+        "y": 40,
+        "w": 44,
+        "h": 44,
+        "right": 418
+      },
+      "header": {
+        "x": 12,
+        "y": 30,
+        "w": 406,
+        "h": 64,
+        "right": 418
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "fabrics",
+      "headerOverlaps": false
+    },
+    {
+      "width": 768,
+      "documentWidth": 768,
+      "logo": {
+        "x": 307.75,
+        "y": 45,
+        "w": 152.484375,
+        "h": 28,
+        "right": 460.234375
+      },
+      "left": {
+        "x": 16,
+        "y": 37,
+        "w": 88,
+        "h": 44,
+        "right": 104
+      },
+      "bag": {
+        "x": 708,
+        "y": 37,
+        "w": 44,
+        "h": 44,
+        "right": 752
+      },
+      "header": {
+        "x": 16,
+        "y": 26,
+        "w": 736,
+        "h": 66,
+        "right": 752
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "home",
+      "headerOverlaps": false
+    },
+    {
+      "width": 768,
+      "documentWidth": 768,
+      "logo": {
+        "x": 307.75,
+        "y": 45,
+        "w": 152.484375,
+        "h": 28,
+        "right": 460.234375
+      },
+      "left": {
+        "x": 16,
+        "y": 37,
+        "w": 88,
+        "h": 44,
+        "right": 104
+      },
+      "bag": {
+        "x": 708,
+        "y": 37,
+        "w": 44,
+        "h": 44,
+        "right": 752
+      },
+      "header": {
+        "x": 16,
+        "y": 26,
+        "w": 736,
+        "h": 66,
+        "right": 752
+      },
+      "drawer": {
+        "x": 0,
+        "y": 0,
+        "w": 430,
+        "h": 900,
+        "right": 430
+      },
+      "drawerWidth": 429,
+      "drawerClientWidth": 429,
+      "brokenImages": [],
+      "scene": "drawer",
+      "headerOverlaps": false
+    },
+    {
+      "width": 768,
+      "documentWidth": 768,
+      "logo": {
+        "x": 307.75,
+        "y": 45,
+        "w": 152.484375,
+        "h": 28,
+        "right": 460.234375
+      },
+      "left": {
+        "x": 16,
+        "y": 37,
+        "w": 88,
+        "h": 44,
+        "right": 104
+      },
+      "bag": {
+        "x": 708,
+        "y": 37,
+        "w": 44,
+        "h": 44,
+        "right": 752
+      },
+      "header": {
+        "x": 16,
+        "y": 26,
+        "w": 736,
+        "h": 66,
+        "right": 752
+      },
+      "drawer": {
+        "x": 0,
+        "y": 0,
+        "w": 430,
+        "h": 900,
+        "right": 430
+      },
+      "drawerWidth": 429,
+      "drawerClientWidth": 429,
+      "brokenImages": [],
+      "scene": "drawer-expanded",
+      "headerOverlaps": false
+    },
+    {
+      "width": 768,
+      "documentWidth": 768,
+      "logo": {
+        "x": 307.75,
+        "y": 45,
+        "w": 152.484375,
+        "h": 28,
+        "right": 460.234375
+      },
+      "left": {
+        "x": 16,
+        "y": 37,
+        "w": 88,
+        "h": 44,
+        "right": 104
+      },
+      "bag": {
+        "x": 708,
+        "y": 37,
+        "w": 44,
+        "h": 44,
+        "right": 752
+      },
+      "header": {
+        "x": 16,
+        "y": 26,
+        "w": 736,
+        "h": 66,
+        "right": 752
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "catalog",
+      "headerOverlaps": false
+    },
+    {
+      "width": 768,
+      "documentWidth": 768,
+      "logo": {
+        "x": 307.75,
+        "y": 45,
+        "w": 152.484375,
+        "h": 28,
+        "right": 460.234375
+      },
+      "left": {
+        "x": 16,
+        "y": 37,
+        "w": 88,
+        "h": 44,
+        "right": 104
+      },
+      "bag": {
+        "x": 708,
+        "y": 37,
+        "w": 44,
+        "h": 44,
+        "right": 752
+      },
+      "header": {
+        "x": 16,
+        "y": 26,
+        "w": 736,
+        "h": 66,
+        "right": 752
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "product",
+      "headerOverlaps": false
+    },
+    {
+      "width": 768,
+      "documentWidth": 768,
+      "logo": {
+        "x": 307.75,
+        "y": 45,
+        "w": 152.484375,
+        "h": 28,
+        "right": 460.234375
+      },
+      "left": {
+        "x": 16,
+        "y": 37,
+        "w": 88,
+        "h": 44,
+        "right": 104
+      },
+      "bag": {
+        "x": 708,
+        "y": 37,
+        "w": 44,
+        "h": 44,
+        "right": 752
+      },
+      "header": {
+        "x": 16,
+        "y": 26,
+        "w": 736,
+        "h": 66,
+        "right": 752
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "fabrics",
+      "headerOverlaps": false
+    },
+    {
+      "width": 1440,
+      "documentWidth": 1440,
+      "logo": {
+        "x": 493.328125,
+        "y": 48.5,
+        "w": 453.328125,
+        "h": 49,
+        "right": 946.65625
+      },
+      "left": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0,
+        "right": 0
+      },
+      "bag": {
+        "x": 1358,
+        "y": 52,
+        "w": 42,
+        "h": 42,
+        "right": 1400
+      },
+      "header": {
+        "x": 40,
+        "y": 32,
+        "w": 1360,
+        "h": 82,
+        "right": 1400
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "home"
+    },
+    {
+      "width": 1440,
+      "documentWidth": 1440,
+      "logo": {
+        "x": 493.328125,
+        "y": 48.5,
+        "w": 453.328125,
+        "h": 49,
+        "right": 946.65625
+      },
+      "left": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0,
+        "right": 0
+      },
+      "bag": {
+        "x": 1358,
+        "y": 52,
+        "w": 42,
+        "h": 42,
+        "right": 1400
+      },
+      "header": {
+        "x": 40,
+        "y": 32,
+        "w": 1360,
+        "h": 82,
+        "right": 1400
+      },
+      "drawer": {
+        "x": 0,
+        "y": 0,
+        "w": 430,
+        "h": 900,
+        "right": 430
+      },
+      "drawerWidth": 429,
+      "drawerClientWidth": 429,
+      "brokenImages": [],
+      "scene": "drawer"
+    },
+    {
+      "width": 1440,
+      "documentWidth": 1440,
+      "logo": {
+        "x": 493.328125,
+        "y": 48.5,
+        "w": 453.328125,
+        "h": 49,
+        "right": 946.65625
+      },
+      "left": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0,
+        "right": 0
+      },
+      "bag": {
+        "x": 1358,
+        "y": 52,
+        "w": 42,
+        "h": 42,
+        "right": 1400
+      },
+      "header": {
+        "x": 40,
+        "y": 32,
+        "w": 1360,
+        "h": 82,
+        "right": 1400
+      },
+      "drawer": {
+        "x": 0,
+        "y": 0,
+        "w": 430,
+        "h": 900,
+        "right": 430
+      },
+      "drawerWidth": 429,
+      "drawerClientWidth": 429,
+      "brokenImages": [],
+      "scene": "drawer-expanded"
+    },
+    {
+      "width": 1440,
+      "documentWidth": 1440,
+      "logo": {
+        "x": 493.328125,
+        "y": 48.5,
+        "w": 453.328125,
+        "h": 49,
+        "right": 946.65625
+      },
+      "left": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0,
+        "right": 0
+      },
+      "bag": {
+        "x": 1358,
+        "y": 52,
+        "w": 42,
+        "h": 42,
+        "right": 1400
+      },
+      "header": {
+        "x": 40,
+        "y": 32,
+        "w": 1360,
+        "h": 82,
+        "right": 1400
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "catalog"
+    },
+    {
+      "width": 1440,
+      "documentWidth": 1440,
+      "logo": {
+        "x": 493.328125,
+        "y": 48.5,
+        "w": 453.328125,
+        "h": 49,
+        "right": 946.65625
+      },
+      "left": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0,
+        "right": 0
+      },
+      "bag": {
+        "x": 1358,
+        "y": 52,
+        "w": 42,
+        "h": 42,
+        "right": 1400
+      },
+      "header": {
+        "x": 40,
+        "y": 32,
+        "w": 1360,
+        "h": 82,
+        "right": 1400
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "product"
+    },
+    {
+      "width": 1440,
+      "documentWidth": 1440,
+      "logo": {
+        "x": 493.328125,
+        "y": 48.5,
+        "w": 453.328125,
+        "h": 49,
+        "right": 946.65625
+      },
+      "left": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0,
+        "right": 0
+      },
+      "bag": {
+        "x": 1358,
+        "y": 52,
+        "w": 42,
+        "h": 42,
+        "right": 1400
+      },
+      "header": {
+        "x": 40,
+        "y": 32,
+        "w": 1360,
+        "h": 82,
+        "right": 1400
+      },
+      "drawer": null,
+      "drawerWidth": null,
+      "drawerClientWidth": null,
+      "brokenImages": [],
+      "scene": "fabrics"
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "suite": "Offline source utility and API-adapter tests",
+  "total": 66,
+  "passed": 66,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Source custom snapshot is copied; later profile changes cannot mutate it",
+      "status": "passed"
+    },
+    {
+      "name": "Order payload omits live measurementProfileId intentionally",
+      "status": "passed"
+    },
+    {
+      "name": "Order payload has no browser price or unrelated internal fields",
+      "status": "passed"
+    },
+    {
+      "name": "Ready-made quote uses sizeLabel, not style variant",
+      "status": "passed"
+    },
+    {
+      "name": "Custom quote uses backend buying mode stitch and actual option IDs",
+      "status": "passed"
+    },
+    {
+      "name": "Distinct measurement sets stay in distinct cart lines",
+      "status": "passed"
+    },
+    {
+      "name": "Identical configurations merge and keep original line ID",
+      "status": "passed"
+    },
+    {
+      "name": "Display profile labels do not create duplicate configurations",
+      "status": "passed"
+    },
+    {
+      "name": "Editing replaces the existing line rather than adding its quantity twice",
+      "status": "passed"
+    },
+    {
+      "name": "Ready-made merged quantity cannot exceed available stock",
+      "status": "passed"
+    },
+    {
+      "name": "Quantity zero is rejected",
+      "status": "passed"
+    },
+    {
+      "name": "Fractional garment quantity is rejected",
+      "status": "passed"
+    },
+    {
+      "name": "Quantity above backend maximum is rejected",
+      "status": "passed"
+    },
+    {
+      "name": "More than 30 distinct lines are rejected",
+      "status": "passed"
+    },
+    {
+      "name": "Merged custom data is a separate snapshot",
+      "status": "passed"
+    },
+    {
+      "name": "Tab storage rejects malformed JSON",
+      "status": "passed"
+    },
+    {
+      "name": "Tab storage rejects impossible quantities",
+      "status": "passed"
+    },
+    {
+      "name": "Tab storage rejects missing structured custom fields",
+      "status": "passed"
+    },
+    {
+      "name": "Tab storage deduplicates line IDs",
+      "status": "passed"
+    },
+    {
+      "name": "Tab storage accepts a complete valid ready-made line",
+      "status": "passed"
+    },
+    {
+      "name": "Tab storage rejects oversized input",
+      "status": "passed"
+    },
+    {
+      "name": "Tab storage rejects invalid numeric custom values",
+      "status": "passed"
+    },
+    {
+      "name": "Standard shipping below the source threshold is Rs.250",
+      "status": "passed"
+    },
+    {
+      "name": "Standard shipping at the source threshold is free",
+      "status": "passed"
+    },
+    {
+      "name": "Express shipping follows the source Rs.500 constant",
+      "status": "passed"
+    },
+    {
+      "name": "Shipping threshold uses net merchandise after discounts",
+      "status": "passed"
+    },
+    {
+      "name": "Combined coupon and loyalty cannot exceed subtotal",
+      "status": "passed"
+    },
+    {
+      "name": "NaN monetary input cannot produce a displayed valid total",
+      "status": "passed"
+    },
+    {
+      "name": "Totals use two-decimal rounding",
+      "status": "passed"
+    },
+    {
+      "name": "Valid decimal measurements pass configured ranges",
+      "status": "passed"
+    },
+    {
+      "name": "Missing measurements are rejected",
+      "status": "passed"
+    },
+    {
+      "name": "Values below configured minimum are rejected",
+      "status": "passed"
+    },
+    {
+      "name": "Values above configured maximum are rejected",
+      "status": "passed"
+    },
+    {
+      "name": "Unknown measurement fields are rejected",
+      "status": "passed"
+    },
+    {
+      "name": "Stable fingerprints ignore object key ordering",
+      "status": "passed"
+    },
+    {
+      "name": "Different checkout addresses produce different fingerprints",
+      "status": "passed"
+    },
+    {
+      "name": "An uncertain retry reuses the exact submission key",
+      "status": "passed"
+    },
+    {
+      "name": "A changed request cannot reuse an unresolved checkout attempt",
+      "status": "passed"
+    },
+    {
+      "name": "Changing account cannot bypass an unresolved checkout attempt",
+      "status": "passed"
+    },
+    {
+      "name": "A completed order permits a new checkout key",
+      "status": "passed"
+    },
+    {
+      "name": "Corrupt retry storage is ignored safely",
+      "status": "passed"
+    },
+    {
+      "name": "Internal redirect preserves intended checkout route",
+      "status": "passed"
+    },
+    {
+      "name": "Protocol-relative open redirect is rejected",
+      "status": "passed"
+    },
+    {
+      "name": "External redirect is rejected",
+      "status": "passed"
+    },
+    {
+      "name": "Backslash redirect is rejected",
+      "status": "passed"
+    },
+    {
+      "name": "Unapproved remote product media is not fetched",
+      "status": "passed"
+    },
+    {
+      "name": "Configured media hostname is accepted",
+      "status": "passed"
+    },
+    {
+      "name": "Supabase storage hostname is accepted",
+      "status": "passed"
+    },
+    {
+      "name": "Media credentials or HTTP are rejected",
+      "status": "passed"
+    },
+    {
+      "name": "Local WebP path is accepted",
+      "status": "passed"
+    },
+    {
+      "name": "API array filters use repeated query keys",
+      "status": "passed"
+    },
+    {
+      "name": "API false booleans remain false query values",
+      "status": "passed"
+    },
+    {
+      "name": "Protocol-relative API path is rejected",
+      "status": "passed"
+    },
+    {
+      "name": "API unwraps supplied success envelope",
+      "status": "passed"
+    },
+    {
+      "name": "API handles 204 deletes without parsing JSON",
+      "status": "passed"
+    },
+    {
+      "name": "API exposes backend validation message and code",
+      "status": "passed"
+    },
+    {
+      "name": "API does not fall back to sample products on a network error",
+      "status": "passed"
+    },
+    {
+      "name": "API rejects unexpected non-envelope success responses",
+      "status": "passed"
+    },
+    {
+      "name": "Authenticated requests cannot silently run on the anonymous server client",
+      "status": "passed"
+    },
+    {
+      "name": "Mutation adapter sends one request with the exact body, no automatic retry",
+      "status": "passed"
+    },
+    {
+      "name": "Price request uses exact /products/compute-price contract",
+      "status": "passed"
+    },
+    {
+      "name": "Order adapter retains the actual server-generated ID",
+      "status": "passed"
+    },
+    {
+      "name": "Sample catalog has distinct stable slugs",
+      "status": "passed"
+    },
+    {
+      "name": "All sample products reference existing categories",
+      "status": "passed"
+    },
+    {
+      "name": "Sample category filter changes the dataset",
+      "status": "passed"
+    },
+    {
+      "name": "Sample impossible search returns zero instead of fake constant results",
+      "status": "passed"
+    }
+  ]
+}

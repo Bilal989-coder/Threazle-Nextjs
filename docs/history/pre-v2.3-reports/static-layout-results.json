@@ -1,0 +1,214 @@
+{
+  "method": "Static source JSX rendering with stubbed hooks, plain image/link adapters, local reset and fallback serif. NOT a running Next.js application; no event-flow test.",
+  "results": [
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "headings": [
+        {
+          "height": 114.265625,
+          "font": "46px"
+        }
+      ],
+      "grid": "554px 554px",
+      "gallery": [],
+      "broken": [],
+      "file": "catalog-2",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "headings": [
+        {
+          "height": 114.265625,
+          "font": "46px"
+        }
+      ],
+      "grid": "268px 268px 268px 268px",
+      "gallery": [],
+      "broken": [],
+      "file": "catalog-4",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "headings": [
+        {
+          "height": 114.265625,
+          "font": "46px"
+        }
+      ],
+      "grid": "177px 177px 177px 177px 177px 177px",
+      "gallery": [],
+      "broken": [],
+      "file": "catalog-6",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "headings": [
+        {
+          "height": 90.140625,
+          "font": "32px"
+        }
+      ],
+      "grid": "171px 171px",
+      "gallery": [],
+      "broken": [],
+      "file": "catalog-mobile",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "headings": [
+        {
+          "height": 112.53125,
+          "font": "32px"
+        }
+      ],
+      "grid": "136px 136px",
+      "gallery": [],
+      "broken": [],
+      "file": "catalog-narrow",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "headings": [
+        {
+          "height": 97.75,
+          "font": "32px"
+        }
+      ],
+      "grid": "167.5px 167.5px 167.5px 167.5px",
+      "gallery": [],
+      "broken": [],
+      "file": "catalog-tablet",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "headings": [],
+      "grid": null,
+      "gallery": [
+        {
+          "selector": "pg-stage",
+          "width": 608.625,
+          "height": 811.5
+        }
+      ],
+      "broken": [],
+      "file": "product-ready",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "headings": [],
+      "grid": null,
+      "gallery": [
+        {
+          "selector": "pg-stage",
+          "width": 608.625,
+          "height": 811.5
+        },
+        {
+          "selector": "style-option-image",
+          "width": 96,
+          "height": 96
+        },
+        {
+          "selector": "style-option-image",
+          "width": 96,
+          "height": 96
+        },
+        {
+          "selector": "style-option-image",
+          "width": 96,
+          "height": 96
+        }
+      ],
+      "broken": [],
+      "file": "product-collars",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "headings": [],
+      "grid": null,
+      "gallery": [
+        {
+          "selector": "pg-stage",
+          "width": 354,
+          "height": 472
+        },
+        {
+          "selector": "style-option-image",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "selector": "style-option-image",
+          "width": 80,
+          "height": 80
+        },
+        {
+          "selector": "style-option-image",
+          "width": 80,
+          "height": 80
+        }
+      ],
+      "broken": [],
+      "file": "product-mobile",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "headings": [],
+      "grid": null,
+      "gallery": [
+        {
+          "selector": "pg-stage",
+          "width": 284,
+          "height": 378.65625
+        },
+        {
+          "selector": "style-option-image",
+          "width": 68,
+          "height": 68
+        },
+        {
+          "selector": "style-option-image",
+          "width": 68,
+          "height": 68
+        },
+        {
+          "selector": "style-option-image",
+          "width": 68,
+          "height": 68
+        }
+      ],
+      "broken": [],
+      "file": "product-narrow",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "headings": [],
+      "grid": null,
+      "gallery": [],
+      "broken": [],
+      "file": "home",
+      "overflow": false
+    }
+  ]
+}

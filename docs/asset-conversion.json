@@ -1,0 +1,29 @@
+[
+  {
+    "source": "Threazle-main/frontend/public/logo-mark.png",
+    "output": "public/brand/logo-mark.webp",
+    "width": 418,
+    "height": 396,
+    "sourceBytes": 186186,
+    "outputBytes": 108616,
+    "sha256": "233e3874afe2a8e70e7d4b1549a0388c5de65bd2fbd13fa3d07319175bcf4994"
+  },
+  {
+    "source": "Threazle-main/frontend/public/apple-touch-icon.png",
+    "output": "public/brand/apple-touch-icon.webp",
+    "width": 180,
+    "height": 180,
+    "sourceBytes": 23132,
+    "outputBytes": 17446,
+    "sha256": "d8a194201d53f9e1e3fd821cac7dd691f14e7bcdaa028f324e03004258f1705f"
+  },
+  {
+    "source": "Threazle-main/frontend/public/favicon.png",
+    "output": "public/brand/favicon.webp",
+    "width": 64,
+    "height": 64,
+    "sourceBytes": 4565,
+    "outputBytes": 3508,
+    "sha256": "09001290b15c082a50b82048c591a77e0b6d7528cf1cf1914f01f70c8526d9d8"
+  }
+]

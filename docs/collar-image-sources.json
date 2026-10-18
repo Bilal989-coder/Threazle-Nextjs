@@ -1,0 +1,56 @@
+[
+  {
+    "name": "classic-band-collar",
+    "source_archive": "Threazle_Storefront_Updated.zip",
+    "source_path": "public/images/products/white-shalwar-qameez-3-1946.webp",
+    "crop_box_pixels": [
+      390,
+      0,
+      1556,
+      1166
+    ],
+    "output_sizes": [
+      160,
+      320,
+      640
+    ],
+    "purpose": "Style-detail reference, not a guarantee of product-specific fabric or finish",
+    "rights": "Existing user-supplied catalog photography. Ownership/licensing not independently verified. No third-party stock photo copied."
+  },
+  {
+    "name": "raised-mandarin-collar",
+    "source_archive": "Threazle_Storefront_Updated.zip",
+    "source_path": "public/images/products/navy-shalwar-qameez-2-823.webp",
+    "crop_box_pixels": [
+      90,
+      0,
+      730,
+      640
+    ],
+    "output_sizes": [
+      160,
+      320,
+      640
+    ],
+    "purpose": "Style-detail reference, not a guarantee of product-specific fabric or finish",
+    "rights": "Existing user-supplied catalog photography. Ownership/licensing not independently verified. No third-party stock photo copied."
+  },
+  {
+    "name": "embroidered-collar",
+    "source_archive": "Threazle_Storefront_Updated.zip",
+    "source_path": "public/images/products/cream-sherwani-3-823.webp",
+    "crop_box_pixels": [
+      90,
+      0,
+      730,
+      640
+    ],
+    "output_sizes": [
+      160,
+      320,
+      640
+    ],
+    "purpose": "Style-detail reference, not a guarantee of product-specific fabric or finish",
+    "rights": "Existing user-supplied catalog photography. Ownership/licensing not independently verified. No third-party stock photo copied."
+  }
+]

@@ -1,0 +1,11 @@
+node_modules
+.next
+dist
+.git
+.env
+.env.*
+*.previous
+*.log
+test-results
+playwright-report
+verification

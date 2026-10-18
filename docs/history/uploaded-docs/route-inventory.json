@@ -1,0 +1,114 @@
+[
+  {
+    "route": "/account/addresses",
+    "file": "src/app/account/addresses/page.tsx"
+  },
+  {
+    "route": "/account/forgot-password",
+    "file": "src/app/account/forgot-password/page.tsx"
+  },
+  {
+    "route": "/account/login",
+    "file": "src/app/account/login/page.tsx"
+  },
+  {
+    "route": "/account/measurements",
+    "file": "src/app/account/measurements/page.tsx"
+  },
+  {
+    "route": "/account/orders/[id]",
+    "file": "src/app/account/orders/[id]/page.tsx"
+  },
+  {
+    "route": "/account/orders",
+    "file": "src/app/account/orders/page.tsx"
+  },
+  {
+    "route": "/account",
+    "file": "src/app/account/page.tsx"
+  },
+  {
+    "route": "/account/reset-password",
+    "file": "src/app/account/reset-password/page.tsx"
+  },
+  {
+    "route": "/account/rewards",
+    "file": "src/app/account/rewards/page.tsx"
+  },
+  {
+    "route": "/account/signup",
+    "file": "src/app/account/signup/page.tsx"
+  },
+  {
+    "route": "/account/verify",
+    "file": "src/app/account/verify/page.tsx"
+  },
+  {
+    "route": "/account/wishlist",
+    "file": "src/app/account/wishlist/page.tsx"
+  },
+  {
+    "route": "/auth/callback",
+    "file": "src/app/auth/callback/page.tsx"
+  },
+  {
+    "route": "/cart",
+    "file": "src/app/cart/page.tsx"
+  },
+  {
+    "route": "/category/[slug]",
+    "file": "src/app/category/[slug]/page.tsx"
+  },
+  {
+    "route": "/checkout",
+    "file": "src/app/checkout/page.tsx"
+  },
+  {
+    "route": "/custom-tailoring",
+    "file": "src/app/custom-tailoring/page.tsx"
+  },
+  {
+    "route": "/fabrics/[slug]",
+    "file": "src/app/fabrics/[slug]/page.tsx"
+  },
+  {
+    "route": "/fabrics",
+    "file": "src/app/fabrics/page.tsx"
+  },
+  {
+    "route": "/new-arrivals",
+    "file": "src/app/new-arrivals/page.tsx"
+  },
+  {
+    "route": "/order/confirmation/[id]",
+    "file": "src/app/order/confirmation/[id]/page.tsx"
+  },
+  {
+    "route": "/",
+    "file": "src/app/page.tsx"
+  },
+  {
+    "route": "/pages/[slug]",
+    "file": "src/app/pages/[slug]/page.tsx"
+  },
+  {
+    "route": "/product/[slug]",
+    "file": "src/app/product/[slug]/page.tsx"
+  },
+  {
+    "route": "/sale",
+    "file": "src/app/sale/page.tsx"
+  },
+  {
+    "route": "/search",
+    "file": "src/app/search/page.tsx"
+  },
+  {
+    "route": "/size-guide",
+    "file": "src/app/size-guide/page.tsx"
+  },
+  {
+    "route": "/track-order",
+    "file": "src/app/track-order/page.tsx"
+  }
+]

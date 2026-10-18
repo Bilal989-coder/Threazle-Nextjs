@@ -1,0 +1,1772 @@
+{
+  "categories": [
+    {
+      "id": "demo-category-sherwani",
+      "slug": "sherwani",
+      "name": "Sherwani",
+      "description": "For your defining moments",
+      "heroImage": "/images/products/gold-sherwani-1-823.webp",
+      "thumbnailImage": "/images/products/gold-sherwani-1-823.webp",
+      "parentId": null,
+      "sortOrder": 0,
+      "leadTimeDays": {
+        "min": 7,
+        "max": 14
+      },
+      "measurementFields": [
+        {
+          "key": "chest",
+          "label": "Chest",
+          "min": 24,
+          "max": 70,
+          "unit": "in"
+        },
+        {
+          "key": "waist",
+          "label": "Waist",
+          "min": 20,
+          "max": 70,
+          "unit": "in"
+        },
+        {
+          "key": "shoulder",
+          "label": "Shoulder",
+          "min": 10,
+          "max": 30,
+          "unit": "in"
+        },
+        {
+          "key": "sleeve",
+          "label": "Sleeve length",
+          "min": 10,
+          "max": 38,
+          "unit": "in"
+        },
+        {
+          "key": "length",
+          "label": "Garment length",
+          "min": 18,
+          "max": 65,
+          "unit": "in"
+        },
+        {
+          "key": "neck",
+          "label": "Neck",
+          "min": 10,
+          "max": 26,
+          "unit": "in"
+        }
+      ]
+    },
+    {
+      "id": "demo-category-shalwar-qameez",
+      "slug": "shalwar-qameez",
+      "name": "Shalwar Qameez",
+      "description": "Everyday, elevated",
+      "heroImage": "/images/products/navy-shalwar-qameez-1-823.webp",
+      "thumbnailImage": "/images/products/navy-shalwar-qameez-1-823.webp",
+      "parentId": null,
+      "sortOrder": 1,
+      "leadTimeDays": {
+        "min": 7,
+        "max": 14
+      },
+      "measurementFields": [
+        {
+          "key": "chest",
+          "label": "Chest",
+          "min": 24,
+          "max": 70,
+          "unit": "in"
+        },
+        {
+          "key": "waist",
+          "label": "Waist",
+          "min": 20,
+          "max": 70,
+          "unit": "in"
+        },
+        {
+          "key": "shoulder",
+          "label": "Shoulder",
+          "min": 10,
+          "max": 30,
+          "unit": "in"
+        },
+        {
+          "key": "sleeve",
+          "label": "Sleeve length",
+          "min": 10,
+          "max": 38,
+          "unit": "in"
+        },
+        {
+          "key": "length",
+          "label": "Garment length",
+          "min": 18,
+          "max": 65,
+          "unit": "in"
+        },
+        {
+          "key": "trouser",
+          "label": "Shalwar length",
+          "min": 20,
+          "max": 58,
+          "unit": "in"
+        }
+      ]
+    },
+    {
+      "id": "demo-category-waistcoat",
+      "slug": "waistcoat",
+      "name": "Waistcoat",
+      "description": "The finishing touch",
+      "heroImage": "/images/products/black-waistcoat-1-960.webp",
+      "thumbnailImage": "/images/products/black-waistcoat-1-960.webp",
+      "parentId": null,
+      "sortOrder": 2,
+      "leadTimeDays": {
+        "min": 7,
+        "max": 14
+      },
+      "measurementFields": [
+        {
+          "key": "chest",
+          "label": "Chest",
+          "min": 24,
+          "max": 70,
+          "unit": "in"
+        },
+        {
+          "key": "waist",
+          "label": "Waist",
+          "min": 20,
+          "max": 70,
+          "unit": "in"
+        },
+        {
+          "key": "shoulder",
+          "label": "Shoulder",
+          "min": 10,
+          "max": 30,
+          "unit": "in"
+        },
+        {
+          "key": "length",
+          "label": "Garment length",
+          "min": 18,
+          "max": 65,
+          "unit": "in"
+        }
+      ]
+    },
+    {
+      "id": "demo-category-hyderabadi",
+      "slug": "hyderabadi",
+      "name": "Hyderabadi",
+      "description": "An enduring tradition",
+      "heroImage": "/images/placeholder.svg",
+      "thumbnailImage": "/images/placeholder.svg",
+      "parentId": null,
+      "sortOrder": 3,
+      "leadTimeDays": {
+        "min": 7,
+        "max": 14
+      },
+      "measurementFields": [
+        {
+          "key": "chest",
+          "label": "Chest",
+          "min": 24,
+          "max": 70,
+          "unit": "in"
+        },
+        {
+          "key": "waist",
+          "label": "Waist",
+          "min": 20,
+          "max": 70,
+          "unit": "in"
+        },
+        {
+          "key": "shoulder",
+          "label": "Shoulder",
+          "min": 10,
+          "max": 30,
+          "unit": "in"
+        },
+        {
+          "key": "sleeve",
+          "label": "Sleeve length",
+          "min": 10,
+          "max": 38,
+          "unit": "in"
+        },
+        {
+          "key": "length",
+          "label": "Garment length",
+          "min": 18,
+          "max": 65,
+          "unit": "in"
+        },
+        {
+          "key": "neck",
+          "label": "Neck",
+          "min": 10,
+          "max": 26,
+          "unit": "in"
+        }
+      ]
+    },
+    {
+      "id": "demo-category-balochi-dress",
+      "slug": "balochi-dress",
+      "name": "Balochi Dress",
+      "description": "A distinctive heritage",
+      "heroImage": "/images/products/firebrick-balochi-1-870.webp",
+      "thumbnailImage": "/images/products/firebrick-balochi-1-870.webp",
+      "parentId": null,
+      "sortOrder": 4,
+      "leadTimeDays": {
+        "min": 7,
+        "max": 14
+      },
+      "measurementFields": [
+        {
+          "key": "chest",
+          "label": "Chest",
+          "min": 24,
+          "max": 70,
+          "unit": "in"
+        },
+        {
+          "key": "waist",
+          "label": "Waist",
+          "min": 20,
+          "max": 70,
+          "unit": "in"
+        },
+        {
+          "key": "shoulder",
+          "label": "Shoulder",
+          "min": 10,
+          "max": 30,
+          "unit": "in"
+        },
+        {
+          "key": "sleeve",
+          "label": "Sleeve length",
+          "min": 10,
+          "max": 38,
+          "unit": "in"
+        },
+        {
+          "key": "length",
+          "label": "Garment length",
+          "min": 18,
+          "max": 65,
+          "unit": "in"
+        },
+        {
+          "key": "trouser",
+          "label": "Shalwar length",
+          "min": 20,
+          "max": 58,
+          "unit": "in"
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "demo-p1",
+      "name": "The Mehr Sherwani",
+      "slug": "the-mehr-sherwani",
+      "categoryId": "demo-category-sherwani",
+      "description": "An ivory jamawar sherwani with a softly textured weave, a gold-embroidered band collar and matching cuff motifs. Finished with domed gold buttons and worn with an ivory shalwar for a calm, classic look on the wedding day.",
+      "shortDescription": "An ivory jamawar sherwani with a softly textured weave, a gold-embroidered band collar and matching cuff motifs. Finished with domed gold buttons and worn with an ivory shalwar for a calm, classic look on the wedding day.",
+      "basePrice": 24500,
+      "images": [
+        {
+          "id": "demo-img-p1-0",
+          "url": "/images/products/cream-sherwani-1-823.webp",
+          "alt": "The Mehr Sherwani — view 1"
+        },
+        {
+          "id": "demo-img-p1-1",
+          "url": "/images/products/cream-sherwani-2-823.webp",
+          "alt": "The Mehr Sherwani — view 2"
+        },
+        {
+          "id": "demo-img-p1-2",
+          "url": "/images/products/cream-sherwani-3-823.webp",
+          "alt": "The Mehr Sherwani — view 3"
+        },
+        {
+          "id": "demo-img-p1-3",
+          "url": "/images/products/cream-sherwani-4-823.webp",
+          "alt": "The Mehr Sherwani — view 4"
+        }
+      ],
+      "isReadymade": true,
+      "isCustomizable": true,
+      "defaultMode": "ready_made",
+      "status": "active",
+      "isNew": true,
+      "isBestSeller": true,
+      "rating": 0,
+      "reviewCount": 0,
+      "variants": [
+        {
+          "id": "demo-p1-classic",
+          "styleName": "Classic band collar",
+          "description": "Clean, timeless neckline",
+          "image": "/images/details/classic-band-collar-640.webp",
+          "priceAdd": 0
+        },
+        {
+          "id": "demo-p1-mandarin",
+          "styleName": "Raised Mandarin collar",
+          "description": "A more defined finish",
+          "image": "/images/details/raised-mandarin-collar-640.webp",
+          "priceAdd": 500
+        },
+        {
+          "id": "demo-p1-embroidered",
+          "styleName": "Embroidered collar",
+          "description": "A considered statement",
+          "image": "/images/details/embroidered-collar-640.webp",
+          "priceAdd": 1000
+        }
+      ],
+      "readyMadeSizes": [
+        {
+          "id": "demo-p1-S",
+          "sizeLabel": "S",
+          "stockQty": 4
+        },
+        {
+          "id": "demo-p1-M",
+          "sizeLabel": "M",
+          "stockQty": 6
+        },
+        {
+          "id": "demo-p1-L",
+          "sizeLabel": "L",
+          "stockQty": 3
+        },
+        {
+          "id": "demo-p1-XL",
+          "sizeLabel": "XL",
+          "stockQty": 0
+        },
+        {
+          "id": "demo-p1-XXL",
+          "sizeLabel": "XXL",
+          "stockQty": 2
+        }
+      ],
+      "compatibleFabricIds": [
+        "demo-f1",
+        "demo-f2",
+        "demo-f5",
+        "demo-f7",
+        "demo-f8"
+      ],
+      "addonIds": [
+        "demo-embroidery",
+        "demo-rush"
+      ]
+    },
+    {
+      "id": "demo-p2",
+      "name": "The Shahi Burgundy Set",
+      "slug": "the-shahi-burgundy-set",
+      "categoryId": "demo-category-shalwar-qameez",
+      "description": "A deep burgundy shalwar qameez with a sharp shirt collar, a concealed placket and tonal embroidered cuffs. Rich in colour yet easy to wear, from Friday prayers to an evening dawat.",
+      "shortDescription": "A deep burgundy shalwar qameez with a sharp shirt collar, a concealed placket and tonal embroidered cuffs. Rich in colour yet easy to wear, from Friday prayers to an evening dawat.",
+      "basePrice": 8900,
+      "images": [
+        {
+          "id": "demo-img-p2-0",
+          "url": "/images/products/burgundy-shalwar-qameez-1-960.webp",
+          "alt": "The Shahi Burgundy Set — view 1"
+        },
+        {
+          "id": "demo-img-p2-1",
+          "url": "/images/products/burgundy-shalwar-qameez-2-960.webp",
+          "alt": "The Shahi Burgundy Set — view 2"
+        },
+        {
+          "id": "demo-img-p2-2",
+          "url": "/images/products/burgundy-shalwar-qameez-3-960.webp",
+          "alt": "The Shahi Burgundy Set — view 3"
+        },
+        {
+          "id": "demo-img-p2-3",
+          "url": "/images/products/burgundy-shalwar-qameez-4-960.webp",
+          "alt": "The Shahi Burgundy Set — view 4"
+        }
+      ],
+      "isReadymade": true,
+      "isCustomizable": true,
+      "defaultMode": "ready_made",
+      "status": "active",
+      "isNew": true,
+      "isBestSeller": true,
+      "rating": 0,
+      "reviewCount": 0,
+      "variants": [
+        {
+          "id": "demo-p2-classic",
+          "styleName": "Classic band collar",
+          "description": "Clean, timeless neckline",
+          "image": "/images/details/classic-band-collar-640.webp",
+          "priceAdd": 0
+        },
+        {
+          "id": "demo-p2-mandarin",
+          "styleName": "Raised Mandarin collar",
+          "description": "A more defined finish",
+          "image": "/images/details/raised-mandarin-collar-640.webp",
+          "priceAdd": 500
+        },
+        {
+          "id": "demo-p2-embroidered",
+          "styleName": "Embroidered collar",
+          "description": "A considered statement",
+          "image": "/images/details/embroidered-collar-640.webp",
+          "priceAdd": 1000
+        }
+      ],
+      "readyMadeSizes": [
+        {
+          "id": "demo-p2-S",
+          "sizeLabel": "S",
+          "stockQty": 4
+        },
+        {
+          "id": "demo-p2-M",
+          "sizeLabel": "M",
+          "stockQty": 6
+        },
+        {
+          "id": "demo-p2-L",
+          "sizeLabel": "L",
+          "stockQty": 3
+        },
+        {
+          "id": "demo-p2-XL",
+          "sizeLabel": "XL",
+          "stockQty": 2
+        },
+        {
+          "id": "demo-p2-XXL",
+          "sizeLabel": "XXL",
+          "stockQty": 2
+        }
+      ],
+      "compatibleFabricIds": [
+        "demo-f3",
+        "demo-f4",
+        "demo-f6"
+      ],
+      "addonIds": [
+        "demo-embroidery",
+        "demo-rush"
+      ]
+    },
+    {
+      "id": "demo-p3",
+      "name": "The Riwaayat Waistcoat",
+      "slug": "the-riwaayat-waistcoat",
+      "categoryId": "demo-category-waistcoat",
+      "description": "A midnight-navy waistcoat with a clean band collar and a crisp pocket square. Layer it over an ivory kurta for mehndi and nikah evenings, or over a shalwar qameez for Eid.",
+      "shortDescription": "A midnight-navy waistcoat with a clean band collar and a crisp pocket square. Layer it over an ivory kurta for mehndi and nikah evenings, or over a shalwar qameez for Eid.",
+      "basePrice": 14500,
+      "salePrice": 12500,
+      "images": [
+        {
+          "id": "demo-img-p3-0",
+          "url": "/images/products/navy-waistcoat-1-960.webp",
+          "alt": "The Riwaayat Waistcoat — view 1"
+        }
+      ],
+      "isReadymade": true,
+      "isCustomizable": true,
+      "defaultMode": "ready_made",
+      "status": "active",
+      "isNew": false,
+      "isBestSeller": true,
+      "rating": 0,
+      "reviewCount": 0,
+      "variants": [
+        {
+          "id": "demo-p3-classic",
+          "styleName": "Classic band collar",
+          "description": "Clean, timeless neckline",
+          "image": "/images/details/classic-band-collar-640.webp",
+          "priceAdd": 0
+        },
+        {
+          "id": "demo-p3-mandarin",
+          "styleName": "Raised Mandarin collar",
+          "description": "A more defined finish",
+          "image": "/images/details/raised-mandarin-collar-640.webp",
+          "priceAdd": 500
+        },
+        {
+          "id": "demo-p3-embroidered",
+          "styleName": "Embroidered collar",
+          "description": "A considered statement",
+          "image": "/images/details/embroidered-collar-640.webp",
+          "priceAdd": 1000
+        }
+      ],
+      "readyMadeSizes": [
+        {
+          "id": "demo-p3-S",
+          "sizeLabel": "S",
+          "stockQty": 4
+        },
+        {
+          "id": "demo-p3-M",
+          "sizeLabel": "M",
+          "stockQty": 6
+        },
+        {
+          "id": "demo-p3-L",
+          "sizeLabel": "L",
+          "stockQty": 3
+        },
+        {
+          "id": "demo-p3-XL",
+          "sizeLabel": "XL",
+          "stockQty": 2
+        },
+        {
+          "id": "demo-p3-XXL",
+          "sizeLabel": "XXL",
+          "stockQty": 2
+        }
+      ],
+      "compatibleFabricIds": [
+        "demo-f1",
+        "demo-f2",
+        "demo-f3",
+        "demo-f5",
+        "demo-f7",
+        "demo-f8"
+      ],
+      "addonIds": [
+        "demo-embroidery",
+        "demo-rush"
+      ]
+    },
+    {
+      "id": "demo-p4",
+      "name": "The Deccan Ensemble",
+      "slug": "the-deccan-ensemble",
+      "categoryId": "demo-category-hyderabadi",
+      "description": "A sand-toned Hyderabadi ensemble with a structured knee-length coat and fine tonal embroidery along the placket and hem.",
+      "shortDescription": "A sand-toned Hyderabadi ensemble with a structured knee-length coat and fine tonal embroidery along the placket and hem.",
+      "basePrice": 19500,
+      "images": [],
+      "isReadymade": true,
+      "isCustomizable": true,
+      "defaultMode": "ready_made",
+      "status": "active",
+      "isNew": true,
+      "isBestSeller": true,
+      "rating": 0,
+      "reviewCount": 0,
+      "variants": [
+        {
+          "id": "demo-p4-classic",
+          "styleName": "Classic band collar",
+          "description": "Clean, timeless neckline",
+          "image": "/images/details/classic-band-collar-640.webp",
+          "priceAdd": 0
+        },
+        {
+          "id": "demo-p4-mandarin",
+          "styleName": "Raised Mandarin collar",
+          "description": "A more defined finish",
+          "image": "/images/details/raised-mandarin-collar-640.webp",
+          "priceAdd": 500
+        },
+        {
+          "id": "demo-p4-embroidered",
+          "styleName": "Embroidered collar",
+          "description": "A considered statement",
+          "image": "/images/details/embroidered-collar-640.webp",
+          "priceAdd": 1000
+        }
+      ],
+      "readyMadeSizes": [
+        {
+          "id": "demo-p4-S",
+          "sizeLabel": "S",
+          "stockQty": 4
+        },
+        {
+          "id": "demo-p4-M",
+          "sizeLabel": "M",
+          "stockQty": 6
+        },
+        {
+          "id": "demo-p4-L",
+          "sizeLabel": "L",
+          "stockQty": 3
+        },
+        {
+          "id": "demo-p4-XL",
+          "sizeLabel": "XL",
+          "stockQty": 0
+        },
+        {
+          "id": "demo-p4-XXL",
+          "sizeLabel": "XXL",
+          "stockQty": 2
+        }
+      ],
+      "compatibleFabricIds": [
+        "demo-f1",
+        "demo-f2",
+        "demo-f4",
+        "demo-f5",
+        "demo-f7",
+        "demo-f8"
+      ],
+      "addonIds": [
+        "demo-embroidery",
+        "demo-rush"
+      ]
+    },
+    {
+      "id": "demo-p5",
+      "name": "The Makran Set",
+      "slug": "the-makran-set",
+      "categoryId": "demo-category-balochi-dress",
+      "description": "A jet-black Balochi dress cut with a generous, flowing shalwar and a fitted qameez. Fine-stitched cuffs and a sharp collar give it quiet confidence on any occasion.",
+      "shortDescription": "A jet-black Balochi dress cut with a generous, flowing shalwar and a fitted qameez. Fine-stitched cuffs and a sharp collar give it quiet confidence on any occasion.",
+      "basePrice": 11500,
+      "images": [
+        {
+          "id": "demo-img-p5-0",
+          "url": "/images/products/black-balochi-1-870.webp",
+          "alt": "The Makran Set — view 1"
+        },
+        {
+          "id": "demo-img-p5-1",
+          "url": "/images/products/black-balochi-2-600.webp",
+          "alt": "The Makran Set — view 2"
+        },
+        {
+          "id": "demo-img-p5-2",
+          "url": "/images/products/black-balochi-3-600.webp",
+          "alt": "The Makran Set — view 3"
+        }
+      ],
+      "isReadymade": true,
+      "isCustomizable": true,
+      "defaultMode": "ready_made",
+      "status": "active",
+      "isNew": true,
+      "isBestSeller": true,
+      "rating": 0,
+      "reviewCount": 0,
+      "variants": [
+        {
+          "id": "demo-p5-classic",
+          "styleName": "Classic band collar",
+          "description": "Clean, timeless neckline",
+          "image": "/images/details/classic-band-collar-640.webp",
+          "priceAdd": 0
+        },
+        {
+          "id": "demo-p5-mandarin",
+          "styleName": "Raised Mandarin collar",
+          "description": "A more defined finish",
+          "image": "/images/details/raised-mandarin-collar-640.webp",
+          "priceAdd": 500
+        },
+        {
+          "id": "demo-p5-embroidered",
+          "styleName": "Embroidered collar",
+          "description": "A considered statement",
+          "image": "/images/details/embroidered-collar-640.webp",
+          "priceAdd": 1000
+        }
+      ],
+      "readyMadeSizes": [
+        {
+          "id": "demo-p5-S",
+          "sizeLabel": "S",
+          "stockQty": 4
+        },
+        {
+          "id": "demo-p5-M",
+          "sizeLabel": "M",
+          "stockQty": 6
+        },
+        {
+          "id": "demo-p5-L",
+          "sizeLabel": "L",
+          "stockQty": 3
+        },
+        {
+          "id": "demo-p5-XL",
+          "sizeLabel": "XL",
+          "stockQty": 2
+        },
+        {
+          "id": "demo-p5-XXL",
+          "sizeLabel": "XXL",
+          "stockQty": 2
+        }
+      ],
+      "compatibleFabricIds": [
+        "demo-f3",
+        "demo-f4",
+        "demo-f6"
+      ],
+      "addonIds": [
+        "demo-embroidery",
+        "demo-rush"
+      ]
+    },
+    {
+      "id": "demo-p6",
+      "name": "The Shah Royal Sherwani",
+      "slug": "the-shah-royal-sherwani",
+      "categoryId": "demo-category-sherwani",
+      "description": "A royal-blue jacquard sherwani with ivory floral embroidery cascading over the shoulder and sleeve. A statement piece for the barat, paired with an ivory churidar and khussa.",
+      "shortDescription": "A royal-blue jacquard sherwani with ivory floral embroidery cascading over the shoulder and sleeve. A statement piece for the barat, paired with an ivory churidar and khussa.",
+      "basePrice": 28500,
+      "images": [
+        {
+          "id": "demo-img-p6-0",
+          "url": "/images/products/royal-blue-sherwani-1-960.webp",
+          "alt": "The Shah Royal Sherwani — view 1"
+        },
+        {
+          "id": "demo-img-p6-1",
+          "url": "/images/products/royal-blue-sherwani-2-960.webp",
+          "alt": "The Shah Royal Sherwani — view 2"
+        },
+        {
+          "id": "demo-img-p6-2",
+          "url": "/images/products/royal-blue-sherwani-3-960.webp",
+          "alt": "The Shah Royal Sherwani — view 3"
+        },
+        {
+          "id": "demo-img-p6-3",
+          "url": "/images/products/royal-blue-sherwani-4-960.webp",
+          "alt": "The Shah Royal Sherwani — view 4"
+        }
+      ],
+      "isReadymade": true,
+      "isCustomizable": true,
+      "defaultMode": "ready_made",
+      "status": "active",
+      "isNew": false,
+      "isBestSeller": true,
+      "rating": 0,
+      "reviewCount": 0,
+      "variants": [
+        {
+          "id": "demo-p6-classic",
+          "styleName": "Classic band collar",
+          "description": "Clean, timeless neckline",
+          "image": "/images/details/classic-band-collar-640.webp",
+          "priceAdd": 0
+        },
+        {
+          "id": "demo-p6-mandarin",
+          "styleName": "Raised Mandarin collar",
+          "description": "A more defined finish",
+          "image": "/images/details/raised-mandarin-collar-640.webp",
+          "priceAdd": 500
+        },
+        {
+          "id": "demo-p6-embroidered",
+          "styleName": "Embroidered collar",
+          "description": "A considered statement",
+          "image": "/images/details/embroidered-collar-640.webp",
+          "priceAdd": 1000
+        }
+      ],
+      "readyMadeSizes": [
+        {
+          "id": "demo-p6-S",
+          "sizeLabel": "S",
+          "stockQty": 4
+        },
+        {
+          "id": "demo-p6-M",
+          "sizeLabel": "M",
+          "stockQty": 6
+        },
+        {
+          "id": "demo-p6-L",
+          "sizeLabel": "L",
+          "stockQty": 3
+        },
+        {
+          "id": "demo-p6-XL",
+          "sizeLabel": "XL",
+          "stockQty": 2
+        },
+        {
+          "id": "demo-p6-XXL",
+          "sizeLabel": "XXL",
+          "stockQty": 2
+        }
+      ],
+      "compatibleFabricIds": [
+        "demo-f1",
+        "demo-f2",
+        "demo-f5",
+        "demo-f7",
+        "demo-f8"
+      ],
+      "addonIds": [
+        "demo-embroidery",
+        "demo-rush"
+      ]
+    },
+    {
+      "id": "demo-p7",
+      "name": "The Noor Cotton Set",
+      "slug": "the-noor-cotton-set",
+      "categoryId": "demo-category-shalwar-qameez",
+      "description": "A crisp white cotton shalwar qameez with a band collar and a short button placket. Light, breathable and timeless — the everyday essential every wardrobe needs.",
+      "shortDescription": "A crisp white cotton shalwar qameez with a band collar and a short button placket. Light, breathable and timeless — the everyday essential every wardrobe needs.",
+      "basePrice": 9900,
+      "salePrice": 7900,
+      "images": [
+        {
+          "id": "demo-img-p7-0",
+          "url": "/images/products/white-shalwar-qameez-1-960.webp",
+          "alt": "The Noor Cotton Set — view 1"
+        },
+        {
+          "id": "demo-img-p7-1",
+          "url": "/images/products/white-shalwar-qameez-2-960.webp",
+          "alt": "The Noor Cotton Set — view 2"
+        },
+        {
+          "id": "demo-img-p7-2",
+          "url": "/images/products/white-shalwar-qameez-3-960.webp",
+          "alt": "The Noor Cotton Set — view 3"
+        }
+      ],
+      "isReadymade": true,
+      "isCustomizable": false,
+      "defaultMode": "ready_made",
+      "status": "active",
+      "isNew": false,
+      "isBestSeller": true,
+      "rating": 0,
+      "reviewCount": 0,
+      "variants": [
+        {
+          "id": "demo-p7-classic",
+          "styleName": "Classic band collar",
+          "description": "Clean, timeless neckline",
+          "image": "/images/details/classic-band-collar-640.webp",
+          "priceAdd": 0
+        },
+        {
+          "id": "demo-p7-mandarin",
+          "styleName": "Raised Mandarin collar",
+          "description": "A more defined finish",
+          "image": "/images/details/raised-mandarin-collar-640.webp",
+          "priceAdd": 500
+        },
+        {
+          "id": "demo-p7-embroidered",
+          "styleName": "Embroidered collar",
+          "description": "A considered statement",
+          "image": "/images/details/embroidered-collar-640.webp",
+          "priceAdd": 1000
+        }
+      ],
+      "readyMadeSizes": [
+        {
+          "id": "demo-p7-S",
+          "sizeLabel": "S",
+          "stockQty": 4
+        },
+        {
+          "id": "demo-p7-M",
+          "sizeLabel": "M",
+          "stockQty": 6
+        },
+        {
+          "id": "demo-p7-L",
+          "sizeLabel": "L",
+          "stockQty": 3
+        },
+        {
+          "id": "demo-p7-XL",
+          "sizeLabel": "XL",
+          "stockQty": 0
+        },
+        {
+          "id": "demo-p7-XXL",
+          "sizeLabel": "XXL",
+          "stockQty": 2
+        }
+      ],
+      "compatibleFabricIds": [
+        "demo-f3",
+        "demo-f4",
+        "demo-f6"
+      ],
+      "addonIds": [
+        "demo-embroidery",
+        "demo-rush"
+      ]
+    },
+    {
+      "id": "demo-p8",
+      "name": "The Chandni Waistcoat",
+      "slug": "the-chandni-waistcoat",
+      "categoryId": "demo-category-waistcoat",
+      "description": "A pearl-ivory waistcoat in a subtly textured weave, finished with tonal buttons and patch pockets. Effortless over white for daytime nikahs and Eid gatherings.",
+      "shortDescription": "A pearl-ivory waistcoat in a subtly textured weave, finished with tonal buttons and patch pockets. Effortless over white for daytime nikahs and Eid gatherings.",
+      "basePrice": 13900,
+      "images": [
+        {
+          "id": "demo-img-p8-0",
+          "url": "/images/products/ivory-waistcoat-1-960.webp",
+          "alt": "The Chandni Waistcoat — view 1"
+        },
+        {
+          "id": "demo-img-p8-1",
+          "url": "/images/products/ivory-waistcoat-2-960.webp",
+          "alt": "The Chandni Waistcoat — view 2"
+        }
+      ],
+      "isReadymade": true,
+      "isCustomizable": true,
+      "defaultMode": "ready_made",
+      "status": "active",
+      "isNew": false,
+      "isBestSeller": true,
+      "rating": 0,
+      "reviewCount": 0,
+      "variants": [
+        {
+          "id": "demo-p8-classic",
+          "styleName": "Classic band collar",
+          "description": "Clean, timeless neckline",
+          "image": "/images/details/classic-band-collar-640.webp",
+          "priceAdd": 0
+        },
+        {
+          "id": "demo-p8-mandarin",
+          "styleName": "Raised Mandarin collar",
+          "description": "A more defined finish",
+          "image": "/images/details/raised-mandarin-collar-640.webp",
+          "priceAdd": 500
+        },
+        {
+          "id": "demo-p8-embroidered",
+          "styleName": "Embroidered collar",
+          "description": "A considered statement",
+          "image": "/images/details/embroidered-collar-640.webp",
+          "priceAdd": 1000
+        }
+      ],
+      "readyMadeSizes": [
+        {
+          "id": "demo-p8-S",
+          "sizeLabel": "S",
+          "stockQty": 4
+        },
+        {
+          "id": "demo-p8-M",
+          "sizeLabel": "M",
+          "stockQty": 6
+        },
+        {
+          "id": "demo-p8-L",
+          "sizeLabel": "L",
+          "stockQty": 3
+        },
+        {
+          "id": "demo-p8-XL",
+          "sizeLabel": "XL",
+          "stockQty": 2
+        },
+        {
+          "id": "demo-p8-XXL",
+          "sizeLabel": "XXL",
+          "stockQty": 2
+        }
+      ],
+      "compatibleFabricIds": [
+        "demo-f1",
+        "demo-f2",
+        "demo-f3",
+        "demo-f5",
+        "demo-f7",
+        "demo-f8"
+      ],
+      "addonIds": [
+        "demo-embroidery",
+        "demo-rush"
+      ]
+    },
+    {
+      "id": "demo-p9",
+      "name": "The Nizam Classic",
+      "slug": "the-nizam-classic",
+      "categoryId": "demo-category-hyderabadi",
+      "description": "A charcoal Hyderabadi coat in a fine wool blend with a high collar and a long, clean line — understated formality for winter occasions.",
+      "shortDescription": "A charcoal Hyderabadi coat in a fine wool blend with a high collar and a long, clean line — understated formality for winter occasions.",
+      "basePrice": 24000,
+      "salePrice": 22000,
+      "images": [],
+      "isReadymade": true,
+      "isCustomizable": true,
+      "defaultMode": "ready_made",
+      "status": "active",
+      "isNew": false,
+      "isBestSeller": false,
+      "rating": 0,
+      "reviewCount": 0,
+      "variants": [
+        {
+          "id": "demo-p9-classic",
+          "styleName": "Classic band collar",
+          "description": "Clean, timeless neckline",
+          "image": "/images/details/classic-band-collar-640.webp",
+          "priceAdd": 0
+        },
+        {
+          "id": "demo-p9-mandarin",
+          "styleName": "Raised Mandarin collar",
+          "description": "A more defined finish",
+          "image": "/images/details/raised-mandarin-collar-640.webp",
+          "priceAdd": 500
+        },
+        {
+          "id": "demo-p9-embroidered",
+          "styleName": "Embroidered collar",
+          "description": "A considered statement",
+          "image": "/images/details/embroidered-collar-640.webp",
+          "priceAdd": 1000
+        }
+      ],
+      "readyMadeSizes": [
+        {
+          "id": "demo-p9-S",
+          "sizeLabel": "S",
+          "stockQty": 4
+        },
+        {
+          "id": "demo-p9-M",
+          "sizeLabel": "M",
+          "stockQty": 6
+        },
+        {
+          "id": "demo-p9-L",
+          "sizeLabel": "L",
+          "stockQty": 3
+        },
+        {
+          "id": "demo-p9-XL",
+          "sizeLabel": "XL",
+          "stockQty": 2
+        },
+        {
+          "id": "demo-p9-XXL",
+          "sizeLabel": "XXL",
+          "stockQty": 2
+        }
+      ],
+      "compatibleFabricIds": [
+        "demo-f1",
+        "demo-f2",
+        "demo-f4",
+        "demo-f5",
+        "demo-f7",
+        "demo-f8"
+      ],
+      "addonIds": [
+        "demo-embroidery",
+        "demo-rush"
+      ]
+    },
+    {
+      "id": "demo-p10",
+      "name": "The Kech Heritage",
+      "slug": "the-kech-heritage",
+      "categoryId": "demo-category-balochi-dress",
+      "description": "A metallic firebrick Balochi dress with deep, flowing gathers and tonal embroidery at the cuffs and pockets. Heritage you can feel in every fold.",
+      "shortDescription": "A metallic firebrick Balochi dress with deep, flowing gathers and tonal embroidery at the cuffs and pockets. Heritage you can feel in every fold.",
+      "basePrice": 12500,
+      "images": [
+        {
+          "id": "demo-img-p10-0",
+          "url": "/images/products/firebrick-balochi-1-870.webp",
+          "alt": "The Kech Heritage — view 1"
+        },
+        {
+          "id": "demo-img-p10-1",
+          "url": "/images/products/firebrick-balochi-2-870.webp",
+          "alt": "The Kech Heritage — view 2"
+        },
+        {
+          "id": "demo-img-p10-2",
+          "url": "/images/products/firebrick-balochi-3-600.webp",
+          "alt": "The Kech Heritage — view 3"
+        }
+      ],
+      "isReadymade": true,
+      "isCustomizable": true,
+      "defaultMode": "ready_made",
+      "status": "active",
+      "isNew": false,
+      "isBestSeller": false,
+      "rating": 0,
+      "reviewCount": 0,
+      "variants": [
+        {
+          "id": "demo-p10-classic",
+          "styleName": "Classic band collar",
+          "description": "Clean, timeless neckline",
+          "image": "/images/details/classic-band-collar-640.webp",
+          "priceAdd": 0
+        },
+        {
+          "id": "demo-p10-mandarin",
+          "styleName": "Raised Mandarin collar",
+          "description": "A more defined finish",
+          "image": "/images/details/raised-mandarin-collar-640.webp",
+          "priceAdd": 500
+        },
+        {
+          "id": "demo-p10-embroidered",
+          "styleName": "Embroidered collar",
+          "description": "A considered statement",
+          "image": "/images/details/embroidered-collar-640.webp",
+          "priceAdd": 1000
+        }
+      ],
+      "readyMadeSizes": [
+        {
+          "id": "demo-p10-S",
+          "sizeLabel": "S",
+          "stockQty": 4
+        },
+        {
+          "id": "demo-p10-M",
+          "sizeLabel": "M",
+          "stockQty": 6
+        },
+        {
+          "id": "demo-p10-L",
+          "sizeLabel": "L",
+          "stockQty": 3
+        },
+        {
+          "id": "demo-p10-XL",
+          "sizeLabel": "XL",
+          "stockQty": 0
+        },
+        {
+          "id": "demo-p10-XXL",
+          "sizeLabel": "XXL",
+          "stockQty": 2
+        }
+      ],
+      "compatibleFabricIds": [
+        "demo-f3",
+        "demo-f4",
+        "demo-f6"
+      ],
+      "addonIds": [
+        "demo-embroidery",
+        "demo-rush"
+      ]
+    },
+    {
+      "id": "demo-p11",
+      "name": "The Shab Sherwani",
+      "slug": "the-shab-sherwani",
+      "categoryId": "demo-category-sherwani",
+      "description": "A near-black jamawar sherwani woven with a subtle bronze pattern, finished with an embroidered collar, gold buttons and a watch chain. Dramatic and refined for evening functions.",
+      "shortDescription": "A near-black jamawar sherwani woven with a subtle bronze pattern, finished with an embroidered collar, gold buttons and a watch chain. Dramatic and refined for evening functions.",
+      "basePrice": 26500,
+      "images": [
+        {
+          "id": "demo-img-p11-0",
+          "url": "/images/products/black-sherwani-1-823.webp",
+          "alt": "The Shab Sherwani — view 1"
+        },
+        {
+          "id": "demo-img-p11-1",
+          "url": "/images/products/black-sherwani-2-823.webp",
+          "alt": "The Shab Sherwani — view 2"
+        },
+        {
+          "id": "demo-img-p11-2",
+          "url": "/images/products/black-sherwani-3-823.webp",
+          "alt": "The Shab Sherwani — view 3"
+        },
+        {
+          "id": "demo-img-p11-3",
+          "url": "/images/products/black-sherwani-4-823.webp",
+          "alt": "The Shab Sherwani — view 4"
+        }
+      ],
+      "isReadymade": true,
+      "isCustomizable": true,
+      "defaultMode": "ready_made",
+      "status": "active",
+      "isNew": false,
+      "isBestSeller": false,
+      "rating": 0,
+      "reviewCount": 0,
+      "variants": [
+        {
+          "id": "demo-p11-classic",
+          "styleName": "Classic band collar",
+          "description": "Clean, timeless neckline",
+          "image": "/images/details/classic-band-collar-640.webp",
+          "priceAdd": 0
+        },
+        {
+          "id": "demo-p11-mandarin",
+          "styleName": "Raised Mandarin collar",
+          "description": "A more defined finish",
+          "image": "/images/details/raised-mandarin-collar-640.webp",
+          "priceAdd": 500
+        },
+        {
+          "id": "demo-p11-embroidered",
+          "styleName": "Embroidered collar",
+          "description": "A considered statement",
+          "image": "/images/details/embroidered-collar-640.webp",
+          "priceAdd": 1000
+        }
+      ],
+      "readyMadeSizes": [
+        {
+          "id": "demo-p11-S",
+          "sizeLabel": "S",
+          "stockQty": 4
+        },
+        {
+          "id": "demo-p11-M",
+          "sizeLabel": "M",
+          "stockQty": 6
+        },
+        {
+          "id": "demo-p11-L",
+          "sizeLabel": "L",
+          "stockQty": 3
+        },
+        {
+          "id": "demo-p11-XL",
+          "sizeLabel": "XL",
+          "stockQty": 2
+        },
+        {
+          "id": "demo-p11-XXL",
+          "sizeLabel": "XXL",
+          "stockQty": 2
+        }
+      ],
+      "compatibleFabricIds": [
+        "demo-f1",
+        "demo-f2",
+        "demo-f5",
+        "demo-f7",
+        "demo-f8"
+      ],
+      "addonIds": [
+        "demo-embroidery",
+        "demo-rush"
+      ]
+    },
+    {
+      "id": "demo-p12",
+      "name": "The Neel Cotton Set",
+      "slug": "the-neel-cotton-set",
+      "categoryId": "demo-category-shalwar-qameez",
+      "description": "An indigo-navy cotton kurta shalwar with a mandarin collar and tonal buttons. Roll the sleeves for everyday ease, or wear it buttoned for a sharper finish.",
+      "shortDescription": "An indigo-navy cotton kurta shalwar with a mandarin collar and tonal buttons. Roll the sleeves for everyday ease, or wear it buttoned for a sharper finish.",
+      "basePrice": 8500,
+      "images": [
+        {
+          "id": "demo-img-p12-0",
+          "url": "/images/products/navy-shalwar-qameez-1-823.webp",
+          "alt": "The Neel Cotton Set — view 1"
+        },
+        {
+          "id": "demo-img-p12-1",
+          "url": "/images/products/navy-shalwar-qameez-2-823.webp",
+          "alt": "The Neel Cotton Set — view 2"
+        },
+        {
+          "id": "demo-img-p12-2",
+          "url": "/images/products/navy-shalwar-qameez-3-823.webp",
+          "alt": "The Neel Cotton Set — view 3"
+        }
+      ],
+      "isReadymade": true,
+      "isCustomizable": true,
+      "defaultMode": "ready_made",
+      "status": "active",
+      "isNew": false,
+      "isBestSeller": false,
+      "rating": 0,
+      "reviewCount": 0,
+      "variants": [
+        {
+          "id": "demo-p12-classic",
+          "styleName": "Classic band collar",
+          "description": "Clean, timeless neckline",
+          "image": "/images/details/classic-band-collar-640.webp",
+          "priceAdd": 0
+        },
+        {
+          "id": "demo-p12-mandarin",
+          "styleName": "Raised Mandarin collar",
+          "description": "A more defined finish",
+          "image": "/images/details/raised-mandarin-collar-640.webp",
+          "priceAdd": 500
+        },
+        {
+          "id": "demo-p12-embroidered",
+          "styleName": "Embroidered collar",
+          "description": "A considered statement",
+          "image": "/images/details/embroidered-collar-640.webp",
+          "priceAdd": 1000
+        }
+      ],
+      "readyMadeSizes": [
+        {
+          "id": "demo-p12-S",
+          "sizeLabel": "S",
+          "stockQty": 4
+        },
+        {
+          "id": "demo-p12-M",
+          "sizeLabel": "M",
+          "stockQty": 6
+        },
+        {
+          "id": "demo-p12-L",
+          "sizeLabel": "L",
+          "stockQty": 3
+        },
+        {
+          "id": "demo-p12-XL",
+          "sizeLabel": "XL",
+          "stockQty": 2
+        },
+        {
+          "id": "demo-p12-XXL",
+          "sizeLabel": "XXL",
+          "stockQty": 2
+        }
+      ],
+      "compatibleFabricIds": [
+        "demo-f3",
+        "demo-f4",
+        "demo-f6"
+      ],
+      "addonIds": [
+        "demo-embroidery",
+        "demo-rush"
+      ]
+    },
+    {
+      "id": "demo-p13",
+      "name": "The Koh Waistcoat",
+      "slug": "the-koh-waistcoat",
+      "categoryId": "demo-category-waistcoat",
+      "description": "A classic black waistcoat in a fine wool blend with a slim band collar and welt pocket. The most versatile layer you will own — over grey, white or ivory.",
+      "shortDescription": "A classic black waistcoat in a fine wool blend with a slim band collar and welt pocket. The most versatile layer you will own — over grey, white or ivory.",
+      "basePrice": 12900,
+      "salePrice": 10900,
+      "images": [
+        {
+          "id": "demo-img-p13-0",
+          "url": "/images/products/black-waistcoat-1-960.webp",
+          "alt": "The Koh Waistcoat — view 1"
+        },
+        {
+          "id": "demo-img-p13-1",
+          "url": "/images/products/black-waistcoat-2-960.webp",
+          "alt": "The Koh Waistcoat — view 2"
+        },
+        {
+          "id": "demo-img-p13-2",
+          "url": "/images/products/black-waistcoat-3-960.webp",
+          "alt": "The Koh Waistcoat — view 3"
+        }
+      ],
+      "isReadymade": true,
+      "isCustomizable": true,
+      "defaultMode": "ready_made",
+      "status": "active",
+      "isNew": false,
+      "isBestSeller": false,
+      "rating": 0,
+      "reviewCount": 0,
+      "variants": [
+        {
+          "id": "demo-p13-classic",
+          "styleName": "Classic band collar",
+          "description": "Clean, timeless neckline",
+          "image": "/images/details/classic-band-collar-640.webp",
+          "priceAdd": 0
+        },
+        {
+          "id": "demo-p13-mandarin",
+          "styleName": "Raised Mandarin collar",
+          "description": "A more defined finish",
+          "image": "/images/details/raised-mandarin-collar-640.webp",
+          "priceAdd": 500
+        },
+        {
+          "id": "demo-p13-embroidered",
+          "styleName": "Embroidered collar",
+          "description": "A considered statement",
+          "image": "/images/details/embroidered-collar-640.webp",
+          "priceAdd": 1000
+        }
+      ],
+      "readyMadeSizes": [
+        {
+          "id": "demo-p13-S",
+          "sizeLabel": "S",
+          "stockQty": 4
+        },
+        {
+          "id": "demo-p13-M",
+          "sizeLabel": "M",
+          "stockQty": 6
+        },
+        {
+          "id": "demo-p13-L",
+          "sizeLabel": "L",
+          "stockQty": 3
+        },
+        {
+          "id": "demo-p13-XL",
+          "sizeLabel": "XL",
+          "stockQty": 0
+        },
+        {
+          "id": "demo-p13-XXL",
+          "sizeLabel": "XXL",
+          "stockQty": 2
+        }
+      ],
+      "compatibleFabricIds": [
+        "demo-f1",
+        "demo-f2",
+        "demo-f3",
+        "demo-f5",
+        "demo-f7",
+        "demo-f8"
+      ],
+      "addonIds": [
+        "demo-embroidery",
+        "demo-rush"
+      ]
+    },
+    {
+      "id": "demo-p14",
+      "name": "The Sunehri Sherwani",
+      "slug": "the-sunehri-sherwani",
+      "categoryId": "demo-category-sherwani",
+      "description": "A muted-gold sherwani covered in fine tonal embroidery, with an embellished collar and cuffs. Made to your measurements, for the groom who wants detail without excess.",
+      "shortDescription": "A muted-gold sherwani covered in fine tonal embroidery, with an embellished collar and cuffs. Made to your measurements, for the groom who wants detail without excess.",
+      "basePrice": 31000,
+      "images": [
+        {
+          "id": "demo-img-p14-0",
+          "url": "/images/products/gold-sherwani-1-823.webp",
+          "alt": "The Sunehri Sherwani — view 1"
+        },
+        {
+          "id": "demo-img-p14-1",
+          "url": "/images/products/gold-sherwani-2-823.webp",
+          "alt": "The Sunehri Sherwani — view 2"
+        },
+        {
+          "id": "demo-img-p14-2",
+          "url": "/images/products/gold-sherwani-3-823.webp",
+          "alt": "The Sunehri Sherwani — view 3"
+        },
+        {
+          "id": "demo-img-p14-3",
+          "url": "/images/products/gold-sherwani-4-823.webp",
+          "alt": "The Sunehri Sherwani — view 4"
+        }
+      ],
+      "isReadymade": false,
+      "isCustomizable": true,
+      "defaultMode": "stitch",
+      "status": "active",
+      "isNew": false,
+      "isBestSeller": false,
+      "rating": 0,
+      "reviewCount": 0,
+      "variants": [
+        {
+          "id": "demo-p14-classic",
+          "styleName": "Classic band collar",
+          "description": "Clean, timeless neckline",
+          "image": "/images/details/classic-band-collar-640.webp",
+          "priceAdd": 0
+        },
+        {
+          "id": "demo-p14-mandarin",
+          "styleName": "Raised Mandarin collar",
+          "description": "A more defined finish",
+          "image": "/images/details/raised-mandarin-collar-640.webp",
+          "priceAdd": 500
+        },
+        {
+          "id": "demo-p14-embroidered",
+          "styleName": "Embroidered collar",
+          "description": "A considered statement",
+          "image": "/images/details/embroidered-collar-640.webp",
+          "priceAdd": 1000
+        }
+      ],
+      "readyMadeSizes": [
+        {
+          "id": "demo-p14-S",
+          "sizeLabel": "S",
+          "stockQty": 4
+        },
+        {
+          "id": "demo-p14-M",
+          "sizeLabel": "M",
+          "stockQty": 6
+        },
+        {
+          "id": "demo-p14-L",
+          "sizeLabel": "L",
+          "stockQty": 3
+        },
+        {
+          "id": "demo-p14-XL",
+          "sizeLabel": "XL",
+          "stockQty": 2
+        },
+        {
+          "id": "demo-p14-XXL",
+          "sizeLabel": "XXL",
+          "stockQty": 2
+        }
+      ],
+      "compatibleFabricIds": [
+        "demo-f1",
+        "demo-f2",
+        "demo-f5",
+        "demo-f7",
+        "demo-f8"
+      ],
+      "addonIds": [
+        "demo-embroidery",
+        "demo-rush"
+      ]
+    }
+  ],
+  "fabrics": [
+    {
+      "id": "demo-f1",
+      "slug": "ivory-jamawar",
+      "name": "Ivory Jamawar",
+      "type": "Jamawar",
+      "color": "Ivory",
+      "colorHex": "#d8c8a9",
+      "composition": "Illustrative woven silk-blend brocade",
+      "description": "Demonstration fabric. Confirm actual composition with the store.",
+      "swatchImage": "",
+      "images": [],
+      "price": 3000,
+      "priceUnit": "flat",
+      "stockStatus": "in_stock",
+      "compatibleCategoryIds": [
+        "demo-category-sherwani",
+        "demo-category-waistcoat",
+        "demo-category-hyderabadi"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "demo-f2",
+      "slug": "midnight-velvet",
+      "name": "Midnight Velvet",
+      "type": "Velvet",
+      "color": "Navy",
+      "colorHex": "#24354b",
+      "composition": "Illustrative soft-pile velvet",
+      "description": "Demonstration fabric. Confirm actual composition with the store.",
+      "swatchImage": "",
+      "images": [],
+      "price": 4000,
+      "priceUnit": "flat",
+      "stockStatus": "in_stock",
+      "compatibleCategoryIds": [
+        "demo-category-sherwani",
+        "demo-category-waistcoat",
+        "demo-category-hyderabadi"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "demo-f3",
+      "slug": "sage-cotton",
+      "name": "Sage Cotton",
+      "type": "Cotton",
+      "color": "Sage",
+      "colorHex": "#87947d",
+      "composition": "Illustrative breathable cotton weave",
+      "description": "Demonstration fabric. Confirm actual composition with the store.",
+      "swatchImage": "",
+      "images": [],
+      "price": 1800,
+      "priceUnit": "flat",
+      "stockStatus": "in_stock",
+      "compatibleCategoryIds": [
+        "demo-category-shalwar-qameez",
+        "demo-category-balochi-dress",
+        "demo-category-waistcoat"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "demo-f4",
+      "slug": "pearl-cotton",
+      "name": "Pearl Cotton",
+      "type": "Cotton",
+      "color": "Ivory",
+      "colorHex": "#e4dfd2",
+      "composition": "Illustrative natural cotton",
+      "description": "Demonstration fabric. Confirm actual composition with the store.",
+      "swatchImage": "",
+      "images": [],
+      "price": 1600,
+      "priceUnit": "flat",
+      "stockStatus": "in_stock",
+      "compatibleCategoryIds": [
+        "demo-category-shalwar-qameez",
+        "demo-category-balochi-dress",
+        "demo-category-hyderabadi"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "demo-f5",
+      "slug": "maroon-jamawar",
+      "name": "Maroon Jamawar",
+      "type": "Jamawar",
+      "color": "Maroon",
+      "colorHex": "#79474a",
+      "composition": "Illustrative textured brocade",
+      "description": "Demonstration fabric. Confirm actual composition with the store.",
+      "swatchImage": "",
+      "images": [],
+      "price": 3500,
+      "priceUnit": "flat",
+      "stockStatus": "in_stock",
+      "compatibleCategoryIds": [
+        "demo-category-sherwani",
+        "demo-category-waistcoat",
+        "demo-category-hyderabadi"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "demo-f6",
+      "slug": "sand-cambric",
+      "name": "Sand Cambric",
+      "type": "Cambric",
+      "color": "Sand",
+      "colorHex": "#baa587",
+      "composition": "Illustrative tightly woven cotton",
+      "description": "Demonstration fabric. Confirm actual composition with the store.",
+      "swatchImage": "",
+      "images": [],
+      "price": 2000,
+      "priceUnit": "flat",
+      "stockStatus": "in_stock",
+      "compatibleCategoryIds": [
+        "demo-category-shalwar-qameez",
+        "demo-category-balochi-dress"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "demo-f7",
+      "slug": "charcoal-wool",
+      "name": "Charcoal Wool",
+      "type": "Wool",
+      "color": "Charcoal",
+      "colorHex": "#4c4f50",
+      "composition": "Illustrative fine wool blend",
+      "description": "Demonstration fabric. Confirm actual composition with the store.",
+      "swatchImage": "",
+      "images": [],
+      "price": 4500,
+      "priceUnit": "flat",
+      "stockStatus": "in_stock",
+      "compatibleCategoryIds": [
+        "demo-category-waistcoat",
+        "demo-category-hyderabadi",
+        "demo-category-sherwani"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "demo-f8",
+      "slug": "olive-silk",
+      "name": "Olive Silk",
+      "type": "Silk",
+      "color": "Olive",
+      "colorHex": "#6e7158",
+      "composition": "Illustrative raw silk texture",
+      "description": "Demonstration fabric. Confirm actual composition with the store.",
+      "swatchImage": "",
+      "images": [],
+      "price": 3800,
+      "priceUnit": "flat",
+      "stockStatus": "out_of_stock",
+      "compatibleCategoryIds": [
+        "demo-category-sherwani",
+        "demo-category-waistcoat",
+        "demo-category-hyderabadi"
+      ],
+      "isFeatured": true
+    }
+  ],
+  "addons": [
+    {
+      "id": "demo-embroidery",
+      "name": "Additional embroidery",
+      "description": "A little more detail, entirely your choice.",
+      "price": 1500
+    },
+    {
+      "id": "demo-rush",
+      "name": "Rush tailoring",
+      "description": "Preview estimate: 5–7 working days.",
+      "price": 1000
+    }
+  ]
+}

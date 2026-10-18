@@ -1,0 +1,33 @@
+FROM node:22-bookworm-slim AS build
+WORKDIR /app
+COPY package.json package-lock.json ./
+RUN npm ci --no-audit --no-fund
+COPY . .
+ARG PUBLIC_SUPABASE_URL
+ARG PUBLIC_SUPABASE_KEY
+ARG PUBLIC_SITE_URL
+ARG PUBLIC_IMAGE_HOSTS
+ENV NEXT_PUBLIC_SUPABASE_URL=$PUBLIC_SUPABASE_URL
+ENV NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=$PUBLIC_SUPABASE_KEY
+ENV NEXT_PUBLIC_SITE_URL=$PUBLIC_SITE_URL
+ENV NEXT_PUBLIC_IMAGE_HOSTS=$PUBLIC_IMAGE_HOSTS
+ENV NEXT_PUBLIC_API_URL=/api/v1
+ENV NEXT_PUBLIC_RELEASE_PHASE=1
+ENV NEXT_PUBLIC_DATA_MODE=api
+ENV NEXT_PUBLIC_ENABLE_INDEXING=false
+ENV API_INTERNAL_URL=http://api:4000/api/v1
+ENV NEXT_TELEMETRY_DISABLED=1
+RUN npm run build
+FROM node:22-bookworm-slim AS runtime
+WORKDIR /app
+ENV NODE_ENV=production
+ENV PORT=3000
+ENV HOSTNAME=0.0.0.0
+ENV API_INTERNAL_URL=http://api:4000/api/v1
+ENV NEXT_TELEMETRY_DISABLED=1
+COPY --from=build --chown=node:node /app/.next/standalone ./
+COPY --from=build --chown=node:node /app/.next/static ./.next/static
+COPY --from=build --chown=node:node /app/public ./public
+USER node
+EXPOSE 3000
+CMD ["node", "server.js"]

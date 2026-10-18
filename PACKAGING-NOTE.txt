@@ -1,0 +1,1 @@
+Extract all three ZIP archives into the SAME parent folder. Read START-HERE.md there. Private .env files, dependencies, generated builds and font binaries are intentionally excluded. No live deployment is claimed.

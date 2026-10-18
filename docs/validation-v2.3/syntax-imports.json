@@ -1,0 +1,7 @@
+{
+  "sourceFiles": 95,
+  "browserTestFiles": 2,
+  "internalImportReferences": 277,
+  "errors": [],
+  "scope": "TypeScript syntax transpilation and local paths only; not framework/type-check or real browser tests"
+}

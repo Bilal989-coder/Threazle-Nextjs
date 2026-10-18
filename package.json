@@ -1,0 +1,42 @@
+{
+  "name": "threazle-storefront",
+  "version": "2.3.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build --webpack",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "test": "node scripts/test-core.cjs && node scripts/test-ui.cjs && node scripts/test-audit.cjs",
+    "test:e2e": "playwright test",
+    "images:convert": "node scripts/convert-images.mjs",
+    "check": "npm run typecheck && npm test && npm run build",
+    "check:api": "node scripts/check-api.mjs",
+    "test:phase1": "node scripts/test-phase1.cjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter": "^5.0.0",
+    "@supabase/supabase-js": "^2.112.1",
+    "lucide-react": "^0.469.0",
+    "next": "^16.4.0",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "sanitize-html": "^2.17.7",
+    "@fontsource/playfair-display": "^5.2.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/sanitize-html": "^2.16.1",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0",
+    "sharp": "^0.34.5",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.7.0"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}
